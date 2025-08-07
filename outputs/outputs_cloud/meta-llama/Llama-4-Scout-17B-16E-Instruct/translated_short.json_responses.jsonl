@@ -1,0 +1,773 @@
+{"label": 171, "it": "levriero italiano", "en": "Italian greyhound", "img": "171.png", "generated_output": "Levriero italiano"}
+{"label": 980, "it": "vulcano", "en": "volcano", "img": "980.png", "generated_output": "vulcano"}
+{"label": 658, "it": "guanto a manopola", "en": "mitten", "img": "658.png", "generated_output": "Manopola"}
+{"label": 549, "it": "busta", "en": "envelope", "img": "549.png", "generated_output": "busta"}
+{"label": 305, "it": "scarabeo stercorario", "en": "dung beetle", "img": "305.png", "generated_output": "scarabeo stercorario"}
+{"label": 416, "it": "trave di equilibrio", "en": "balance beam", "img": "416.png", "generated_output": "trave di equilibrio"}
+{"label": 89, "it": "cacatua ciuffogiallo", "en": "Cacatua galerita", "img": "89.png", "generated_output": "Cacatua crestata"}
+{"label": 793, "it": "cuffia da doccia", "en": "shower cap", "img": "793.png", "generated_output": "Cappuccio da doccia"}
+{"label": 712, "it": "Piastra di Petri", "en": "Petri dish", "img": "712.png", "generated_output": "Piastra di Petri"}
+{"label": 505, "it": "caffettiera", "en": "coffeepot", "img": "505.png", "generated_output": "Caffettiera"}
+{"label": 332, "it": "coniglio d'Angora", "en": "Angora rabbit", "img": "332.png", "generated_output": "Coniglio Angora"}
+{"label": 986, "it": "Scarpetta di Venere", "en": "Cypripedium parviflorum", "img": "986.png", "generated_output": "Cypripedium parviflorum non necessita di traduzione in quanto \u00e8 un nome scientifico. Tuttavia, in italiano, la pianta \u00e8 conosciuta come \"Pantofoletta a fiori piccoli\"."}
+{"label": 867, "it": "Autoarticolato", "en": "rig", "img": "867.png", "generated_output": "impianto di sollevamento"}
+{"label": 116, "it": "placofori", "en": "sea cradle", "img": "116.png", "generated_output": "culla di mare"}
+{"label": 817, "it": "vettura sport", "en": "sport car", "img": "817.png", "generated_output": "macchina sportiva"}
+{"label": 642, "it": "xilofono", "en": "marimba", "img": "642.png", "generated_output": "marimba"}
+{"label": 327, "it": "stella di mare", "en": "sea star", "img": "327.png", "generated_output": "Stella marina"}
+{"label": 995, "it": "geastro", "en": "earthstar", "img": "995.png", "generated_output": "stellina di terra"}
+{"label": 87, "it": "Psittacus cinereus", "en": "African gray", "img": "87.png", "generated_output": "Pappagallo grigio africano"}
+{"label": 977, "it": "tombolo", "en": "sandbar", "img": "977.png", "generated_output": "barra di sabbia"}
+{"label": 989, "it": "cinorrodo", "en": "hip", "img": "989.png", "generated_output": "fior di rosa"}
+{"label": 120, "it": "Uca (zoologia)", "en": "fiddler crab", "img": "120.png", "generated_output": "granchio violinista"}
+{"label": 800, "it": "slot-machine", "en": "one-armed bandit", "img": "800.png", "generated_output": "bandito a un braccio"}
+{"label": 905, "it": "avvolgibile", "en": "window shade", "img": "905.png", "generated_output": "tenda da finestra"}
+{"label": 124, "it": "gambero d'acqua dolce", "en": "crawfish", "img": "124.png", "generated_output": "gambero d'acqua dolce"}
+{"label": 541, "it": "membranofoni", "en": "drum", "img": "541.png", "generated_output": "batteria"}
+{"label": 661, "it": "Flivver", "en": "Model T", "img": "661.png", "generated_output": "Modello T"}
+{"label": 251, "it": "dalmata", "en": "dalmatian", "img": "251.png", "generated_output": "Dalmatino."}
+{"label": 313, "it": "fasmide", "en": "walkingstick", "img": "313.png", "generated_output": "bastoncino"}
+{"label": 784, "it": "cacciavite", "en": "screwdriver", "img": "784.png", "generated_output": "Cacciavite"}
+{"label": 261, "it": "Keeshound", "en": "keeshond", "img": "261.png", "generated_output": "keeshond -> Chien-loup n\u00e9erlandais"}
+{"label": 973, "it": "barriera corallina", "en": "coral reef", "img": "973.png", "generated_output": "barriera corallina"}
+{"label": 725, "it": "caraffa", "en": "ewer", "img": "725.png", "generated_output": "brocca"}
+{"label": 535, "it": "freno a disco", "en": "disk brake", "img": "535.png", "generated_output": "freno a disco"}
+{"label": 691, "it": "maschera per ossigeno", "en": "oxygen mask", "img": "691.png", "generated_output": "maschera d'ossigeno"}
+{"label": 269, "it": "lupo", "en": "timber wolf", "img": "269.png", "generated_output": "Lupo grigio"}
+{"label": 438, "it": "becher", "en": "beaker", "img": "438.png", "generated_output": "provetta"}
+{"label": 558, "it": "flauto traverso", "en": "flute", "img": "558.png", "generated_output": "flauto"}
+{"label": 830, "it": "barella", "en": "stretcher", "img": "830.png", "generated_output": "barella"}
+{"label": 569, "it": "autocompattatore", "en": "dustcart", "img": "569.png", "generated_output": "carro della spazzatura"}
+{"label": 129, "it": "spatola", "en": "spoonbill", "img": "129.png", "generated_output": "cucchiaio"}
+{"label": 46, "it": "racano", "en": "Lacerta viridis", "img": "46.png", "generated_output": "Lacerta viridis si riferisce comunemente a: \n\n*   *Lacerta viridis*, un sinonile di *Podarcis muralis*, una specie di lucertola, comunemente nota come lucertola muraiola.\n\nTuttavia, in base all'immagine allegata, la traduzione pi\u00f9 appropriata di \"Lacerta viridis\" \u00e8:\n\n*   *Lacerta viridis*, una specie di lucertola, comunemente nota come lucertola verde europea.\n\nLa traduzione in italiano \u00e8: Lucertola verde europea."}
+{"label": 766, "it": "spiedo", "en": "rotisserie", "img": "766.png", "generated_output": "girarrosto"}
+{"label": 553, "it": "archivio", "en": "file", "img": "553.png", "generated_output": "archivio"}
+{"label": 586, "it": "veicolo semicingolato", "en": "half track", "img": "586.png", "generated_output": "semitruciolo"}
+{"label": 422, "it": "Bilanciere", "en": "barbell", "img": "422.png", "generated_output": "bilanciere"}
+{"label": 334, "it": "porcospino", "en": "porcupine", "img": "334.png", "generated_output": "riccio"}
+{"label": 542, "it": "bacchetta", "en": "drumstick", "img": "542.png", "generated_output": "bacchetta per batteria"}
+{"label": 290, "it": "giaguaro", "en": "panther", "img": "290.png", "generated_output": "pantera"}
+{"label": 826, "it": "cronometro", "en": "stop watch", "img": "826.png", "generated_output": "cronometro"}
+{"label": 556, "it": "caminiera", "en": "fire screen", "img": "556.png", "generated_output": "schermo antifiamma"}
+{"label": 664, "it": "monitore", "en": "monitor", "img": "664.png", "generated_output": "monitor"}
+{"label": 584, "it": "fermacapelli", "en": "hair slide", "img": "584.png", "generated_output": "fermaglio per capelli"}
+{"label": 828, "it": "colino", "en": "strainer", "img": "828.png", "generated_output": "Colino"}
+{"label": 593, "it": "armonica", "en": "mouth organ", "img": "593.png", "generated_output": "armonica a bocca"}
+{"label": 373, "it": "macaco", "en": "macaque", "img": "373.png", "generated_output": "macaco"}
+{"label": 409, "it": "orologio analogico", "en": "analog clock", "img": "409.png", "generated_output": "orologio analogico"}
+{"label": 692, "it": "pacchetto", "en": "packet", "img": "692.png", "generated_output": " confezione"}
+{"label": 825, "it": "muro di pietra", "en": "stone wall", "img": "825.png", "generated_output": "muro di pietra"}
+{"label": 990, "it": "castagna d'India", "en": "buckeye", "img": "990.png", "generated_output": "marroncino"}
+{"label": 717, "it": "pick-up", "en": "pickup truck", "img": "717.png", "generated_output": "furgone pick-up"}
+{"label": 340, "it": "zebre", "en": "zebra", "img": "340.png", "generated_output": "zebra -> zebra. \n\nHowever, considering that the task involves providing a translation and there might be a more appropriate or specific term in Italian for zebra, here is the revised response:\n\nzebra"}
+{"label": 138, "it": "otarda", "en": "bustard", "img": "138.png", "generated_output": "grulla"}
+{"label": 835, "it": "orologio solare", "en": "sundial", "img": "835.png", "generated_output": "orologio solare"}
+{"label": 743, "it": "carcere", "en": "prison", "img": "743.png", "generated_output": "prigione"}
+{"label": 623, "it": "aprilettere", "en": "letter opener", "img": "623.png", "generated_output": "aprilettere"}
+{"label": 998, "it": "spiga", "en": "capitulum", "img": "998.png", "generated_output": "capitello"}
+{"label": 564, "it": "letto a baldacchino", "en": "four-poster", "img": "564.png", "generated_output": "a quattro colonne"}
+{"label": 570, "it": "maschera antigas", "en": "gasmask", "img": "570.png", "generated_output": "maschera antigas"}
+{"label": 875, "it": "trombone a pistoni", "en": "trombone", "img": "875.png", "generated_output": "trombone"}
+{"label": 415, "it": "forno", "en": "bakehouse", "img": "415.png", "generated_output": "Forno"}
+{"label": 764, "it": "fucile", "en": "rifle", "img": "764.png", "generated_output": "fucile"}
+{"label": 730, "it": "aratro", "en": "plough", "img": "730.png", "generated_output": "aratro"}
+{"label": 943, "it": "cetriolo", "en": "cuke", "img": "943.png", "generated_output": "cetriolo"}
+{"label": 226, "it": "cane da pastore di Brie", "en": "briard", "img": "226.png", "generated_output": "Briard."}
+{"label": 806, "it": "calzino", "en": "sock", "img": "806.png", "generated_output": "calza"}
+{"label": 356, "it": "donnola", "en": "weasel", "img": "356.png", "generated_output": "faina"}
+{"label": 40, "it": "anolide", "en": "anole", "img": "40.png", "generated_output": "anole"}
+{"label": 543, "it": "manubrio", "en": "dumbbell", "img": "543.png", "generated_output": "manubrio"}
+{"label": 883, "it": "vaso", "en": "vase", "img": "883.png", "generated_output": "vaso"}
+{"label": 921, "it": "Sovraccoperta", "en": "dust jacket", "img": "921.png", "generated_output": "copertina"}
+{"label": 515, "it": "cappello da cowboy", "en": "ten-gallon hat", "img": "515.png", "generated_output": "cappello a dieci galloni"}
+{"label": 970, "it": "alpe", "en": "alp", "img": "970.png", "generated_output": "alpi"}
+{"label": 568, "it": "pelletteria", "en": "fur coat", "img": "568.png", "generated_output": "cappotto di pelliccia"}
+{"label": 597, "it": "Fondina", "en": "holster", "img": "597.png", "generated_output": "fondina"}
+{"label": 98, "it": "smergo minore", "en": "red-breasted merganser", "img": "98.png", "generated_output": "merganzero testarossa"}
+{"label": 62, "it": "pitone di Seba", "en": "rock snake", "img": "62.png", "generated_output": "serpente di roccia"}
+{"label": 910, "it": "cucchiaio di legno", "en": "wooden spoon", "img": "910.png", "generated_output": "Cucchiaio di legno"}
+{"label": 814, "it": "fuoribordo", "en": "speedboat", "img": "814.png", "generated_output": " motoscafo"}
+{"label": 988, "it": "ghianda", "en": "acorn", "img": "988.png", "generated_output": "ghianda"}
+{"label": 614, "it": "chimono", "en": "kimono", "img": "614.png", "generated_output": "kimono"}
+{"label": 561, "it": "muletto", "en": "forklift", "img": "561.png", "generated_output": "Carrello elevatore"}
+{"label": 231, "it": "pastore scozzese", "en": "collie", "img": "231.png", "generated_output": "collie"}
+{"label": 966, "it": "vino rosso", "en": "red wine", "img": "966.png", "generated_output": "vino rosso"}
+{"label": 311, "it": "cavalletta", "en": "grasshopper", "img": "311.png", "generated_output": "saltafieno"}
+{"label": 55, "it": "biscia d'erba", "en": "grass snake", "img": "55.png", "generated_output": "serpente d'erba"}
+{"label": 364, "it": "bradipo", "en": "Bradypus tridactylus", "img": "364.png", "generated_output": "Bradypus tridactylus si traduce in \"Bradipo tridattilo\". \n\nTuttavia, la traduzione pi\u00f9 comune \u00e8: Bradipo a tre dita."}
+{"label": 571, "it": "distributore di carburante", "en": "petrol pump", "img": "571.png", "generated_output": "distributore di benzina"}
+{"label": 671, "it": "fuoristrada", "en": "all-terrain bike", "img": "671.png", "generated_output": "bici da cross-country"}
+{"label": 110, "it": "Vermi piatti", "en": "platyhelminth", "img": "110.png", "generated_output": "platelminta"}
+{"label": 490, "it": "maglia di ferro", "en": "chain mail", "img": "490.png", "generated_output": "cotta di maglia"}
+{"label": 798, "it": "regolo", "en": "slipstick", "img": "798.png", "generated_output": "regolo calcolatore"}
+{"label": 961, "it": "pasta", "en": "dough", "img": "961.png", "generated_output": "impasto"}
+{"label": 63, "it": "cobra dagli occhiali", "en": "Naja naja", "img": "63.png", "generated_output": "Naja naja \u00e8 una specie di serpente velenoso molto diffusa nell'areale che comprende l'India, il Pakistan, il Bangladesh, il Nepal, il Bhutan e parti dello Sri Lanka."}
+{"label": 971, "it": "bollicina", "en": "bubble", "img": "971.png", "generated_output": "bolla"}
+{"label": 473, "it": "apriscatole", "en": "can opener", "img": "473.png", "generated_output": "Apriscatole"}
+{"label": 15, "it": "tordo migratore", "en": "Turdus migratorius", "img": "15.png", "generated_output": "Turdus migratorius \u00e8 il nome scientifico del merlo americano. \n\nHowever, the direct translation of \"Turdus migratorius\" into Italian, leveraging the context that it is a scientific name and likely referring to a species, would simply be:\n\nTurdus migratorius. \n\nSince it seems to be a Latin or scientific name, it remains the same in Italian. But if you are looking for the common name in Italian based on the image of a robin:\n\nMerlo americano."}
+{"label": 512, "it": "cavatappi", "en": "corkscrew", "img": "512.png", "generated_output": "Tiratore di tappi"}
+{"label": 106, "it": "vombato", "en": "wombat", "img": "106.png", "generated_output": "vombato"}
+{"label": 684, "it": "ocarina di Budrio", "en": "ocarina", "img": "684.png", "generated_output": "ocarina"}
+{"label": 102, "it": "formichiere", "en": "anteater", "img": "102.png", "generated_output": "formichiere"}
+{"label": 726, "it": "pialla", "en": "carpenter's plane", "img": "726.png", "generated_output": "pialla del falegname"}
+{"label": 863, "it": "palo totemico", "en": "totem pole", "img": "863.png", "generated_output": "totem pole -> palo totemico"}
+{"label": 665, "it": "motorino", "en": "moped", "img": "665.png", "generated_output": "Ciclomotore"}
+{"label": 242, "it": "boxer (cane)", "en": "boxer", "img": "242.png", "generated_output": "boxer"}
+{"label": 594, "it": "arpa", "en": "harp", "img": "594.png", "generated_output": "arpa"}
+{"label": 86, "it": "pernice", "en": "partridge", "img": "86.png", "generated_output": "perdice"}
+{"label": 871, "it": "trimarano", "en": "trimaran", "img": "871.png", "generated_output": "trimarana"}
+{"label": 874, "it": "filobus", "en": "trolleybus", "img": "874.png", "generated_output": "filobus"}
+{"label": 213, "it": "Setter irlandese", "en": "Irish setter", "img": "213.png", "generated_output": "Setter irlandese"}
+{"label": 315, "it": "mantide", "en": "mantis", "img": "315.png", "generated_output": "mantis religiosa"}
+{"label": 417, "it": "palloncino", "en": "balloon", "img": "417.png", "generated_output": "pallone aerostatico"}
+{"label": 126, "it": "isopode", "en": "isopod", "img": "126.png", "generated_output": "isopode"}
+{"label": 839, "it": "ponte sospeso", "en": "suspension bridge", "img": "839.png", "generated_output": "Ponte sospeso"}
+{"label": 928, "it": "gelato", "en": "ice cream", "img": "928.png", "generated_output": "gelato"}
+{"label": 50, "it": "Alligator Missisipiensis", "en": "Alligator mississipiensis", "img": "50.png", "generated_output": "Alligatore mississippiensis."}
+{"label": 771, "it": "cassaforte", "en": "safe", "img": "771.png", "generated_output": "Cassa di sicurezza"}
+{"label": 68, "it": "crotalo ceraste", "en": "Crotalus cerastes", "img": "68.png", "generated_output": "Crotalus cerastes, comunemente noto come serpente a sonagli del deserto, \u00e8 una specie di serpente velenoso endemica del deserto del sud-ovest degli Stati Uniti e del nord-ovest del Messico."}
+{"label": 483, "it": "castello", "en": "castle", "img": "483.png", "generated_output": "castello"}
+{"label": 376, "it": "nasica", "en": "Nasalis larvatus", "img": "376.png", "generated_output": "Nasalis larvatus si traduce in italiano come \"Nasalis larvatus\" poich\u00e9 \u00e8 un nome scientifico e non necessita di traduzione. Tuttavia, \u00e8 noto anche come \"proboscideo\" o \"naso lungo\", ma il nome scientifico rimane invariato. \n\nLa traduzione non cambia. \n\nNasalis larvatus"}
+{"label": 580, "it": "serra", "en": "greenhouse", "img": "580.png", "generated_output": "serra"}
+{"label": 862, "it": "torcia", "en": "torch", "img": "862.png", "generated_output": "fiaccola"}
+{"label": 895, "it": "aeromobile militare", "en": "warplane", "img": "895.png", "generated_output": "aereo da guerra"}
+{"label": 96, "it": "tucano", "en": "toucan", "img": "96.png", "generated_output": "tucano"}
+{"label": 984, "it": "colza", "en": "rapeseed", "img": "984.png", "generated_output": "colza"}
+{"label": 403, "it": "portaerei", "en": "aircraft carrier", "img": "403.png", "generated_output": "portaerei"}
+{"label": 779, "it": "scuolabus", "en": "school bus", "img": "779.png", "generated_output": "Autobus scolastico"}
+{"label": 141, "it": "pettegola", "en": "redshank", "img": "141.png", "generated_output": "chiappagalli"}
+{"label": 546, "it": "chitarra elettrica", "en": "electric guitar", "img": "546.png", "generated_output": "chitarra elettrica"}
+{"label": 774, "it": "sandalo", "en": "sandal", "img": "774.png", "generated_output": "sandalo"}
+{"label": 689, "it": "sopraggonna", "en": "overskirt", "img": "689.png", "generated_output": "gonna esterna"}
+{"label": 886, "it": "distributore automatico", "en": "vending machine", "img": "886.png", "generated_output": "distributore automatico"}
+{"label": 634, "it": "segheria", "en": "lumbermill", "img": "634.png", "generated_output": "sciamill"}
+{"label": 860, "it": "tabaccaia", "en": "tobacconist", "img": "860.png", "generated_output": "tabaccaio"}
+{"label": 338, "it": "porcellino d'India", "en": "guinea pig", "img": "338.png", "generated_output": "Cavia"}
+{"label": 619, "it": "paralume", "en": "lampshade", "img": "619.png", "generated_output": "abajur"}
+{"label": 711, "it": "profumo", "en": "perfume", "img": "711.png", "generated_output": "Profumo."}
+{"label": 463, "it": "secchio", "en": "pail", "img": "463.png", "generated_output": "secchio"}
+{"label": 751, "it": "macchina da corsa", "en": "racing car", "img": "751.png", "generated_output": "vettura da corsa"}
+{"label": 449, "it": "rimessa per barche", "en": "boathouse", "img": "449.png", "generated_output": "casa galleggiante"}
+{"label": 838, "it": "filtro solare", "en": "sunblock", "img": "838.png", "generated_output": "protettore solare"}
+{"label": 450, "it": "guidoslitta", "en": "bobsleigh", "img": "450.png", "generated_output": "bob"}
+{"label": 399, "it": "abaya (indumento)", "en": "abaya", "img": "399.png", "generated_output": "abaya -> abaya"}
+{"label": 907, "it": "bottiglia di vino", "en": "wine bottle", "img": "907.png", "generated_output": "bottiglia di vino"}
+{"label": 71, "it": "scorpione", "en": "scorpion", "img": "71.png", "generated_output": "scorpione"}
+{"label": 249, "it": "malamute di Alaska", "en": "Alaskan malamute", "img": "249.png", "generated_output": "Malamute dell'Alaska"}
+{"label": 455, "it": "tappo", "en": "bottlecap", "img": "455.png", "generated_output": "tappo di bottiglia"}
+{"label": 499, "it": "Mannarino", "en": "chopper", "img": "499.png", "generated_output": "tritatore"}
+{"label": 938, "it": "cavolfiore", "en": "cauliflower", "img": "938.png", "generated_output": "cavolfiore"}
+{"label": 704, "it": "parchimetro", "en": "parking meter", "img": "704.png", "generated_output": "parcometro"}
+{"label": 785, "it": "cintura", "en": "seat belt", "img": "785.png", "generated_output": "Cintura di sicurezza"}
+{"label": 582, "it": "alimentari", "en": "grocery", "img": "582.png", "generated_output": "spesa"}
+{"label": 115, "it": "lumaca di mare", "en": "sea slug", "img": "115.png", "generated_output": "lumaca di mare"}
+{"label": 157, "it": "\u00c9pagneul nano continentale", "en": "papillon", "img": "157.png", "generated_output": "farfalletta"}
+{"label": 154, "it": "Pechinese", "en": "Pekinese", "img": "154.png", "generated_output": "Pechinese."}
+{"label": 590, "it": "dispositivo mobile", "en": "hand-held microcomputer", "img": "590.png", "generated_output": "microcomputer portatile"}
+{"label": 761, "it": "controllo remoto", "en": "remote control", "img": "761.png", "generated_output": "controllo remoto"}
+{"label": 395, "it": "Aguglia di Svetovidov", "en": "Lepisosteus osseus", "img": "395.png", "generated_output": "Lepisosteus osseus si riferisce comunemente al pesce-gar, una specie di pesce osseo. \n\nHowever, the more accurate translation of \"Lepisosteus osseus\" is: \nLepisosteus osseus. \n\nSince it is a scientific name, it is commonly not translated. However, if we are to translate it, we get: \n\n\"Lepisosteus osseus\" is translated to Italian as \"Lepisosteus osseo\" but in scientific contexts, it remains the same.\n\nThe answer is: Lepisosteus osseus"}
+{"label": 572, "it": "coppa", "en": "goblet", "img": "572.png", "generated_output": "coppa"}
+{"label": 413, "it": "fucile d'assalto", "en": "assault rifle", "img": "413.png", "generated_output": "fucile d'assalto"}
+{"label": 837, "it": "occhiali da sole", "en": "shades", "img": "837.png", "generated_output": "occhiali da sole"}
+{"label": 482, "it": "riproduttore a cassetta", "en": "cassette player", "img": "482.png", "generated_output": "Riproduttore di cassette"}
+{"label": 683, "it": "oboi", "en": "oboe", "img": "683.png", "generated_output": "oboe"}
+{"label": 650, "it": "microfono", "en": "mike", "img": "650.png", "generated_output": "mike"}
+{"label": 488, "it": "catena", "en": "chain", "img": "488.png", "generated_output": "catena"}
+{"label": 554, "it": "Motobarcapompa", "en": "fireboat", "img": "554.png", "generated_output": "nave antincendio"}
+{"label": 698, "it": "palazzo reale", "en": "palace", "img": "698.png", "generated_output": "palazzo"}
+{"label": 646, "it": "labirinto", "en": "maze", "img": "646.png", "generated_output": "labirinto"}
+{"label": 292, "it": "tigre", "en": "tiger", "img": "292.png", "generated_output": "tigre"}
+{"label": 888, "it": "viadotto", "en": "viaduct", "img": "888.png", "generated_output": "viadotto"}
+{"label": 161, "it": "bassethound", "en": "basset hound", "img": "161.png", "generated_output": "Cane basset"}
+{"label": 66, "it": "ceraste", "en": "horned viper", "img": "66.png", "generated_output": "vipera cornuta"}
+{"label": 136, "it": "pollo sultano", "en": "Porphyrio porphyrio", "img": "136.png", "generated_output": "Porphyrio porphyrio"}
+{"label": 357, "it": "visone", "en": "mink", "img": "357.png", "generated_output": "visone"}
+{"label": 758, "it": "bobina", "en": "reel", "img": "758.png", "generated_output": "mulinello"}
+{"label": 673, "it": "ratto", "en": "mouse", "img": "673.png", "generated_output": "topo"}
+{"label": 703, "it": "panchina", "en": "park bench", "img": "703.png", "generated_output": "Panca del parco"}
+{"label": 999, "it": "carta igienica", "en": "bathroom tissue", "img": "999.png", "generated_output": "tessuto da bagno"}
+{"label": 926, "it": "pignatta mongola", "en": "hotpot", "img": "926.png", "generated_output": "Pentola a vapore"}
+{"label": 2, "it": "pescecane", "en": "man-eating shark", "img": "2.png", "generated_output": "squalo mangiatore di uomini"}
+{"label": 33, "it": "caretta", "en": "Caretta caretta", "img": "33.png", "generated_output": "Crocodylia"}
+{"label": 61, "it": "boa (serpente)", "en": "boa constrictor", "img": "61.png", "generated_output": "boa constrittore"}
+{"label": 699, "it": "siringa", "en": "pandean pipe", "img": "699.png", "generated_output": "pipa pandeana"}
+{"label": 451, "it": "Cravatta di cuoio", "en": "bola", "img": "451.png", "generated_output": "bolo"}
+{"label": 628, "it": "transatlantico", "en": "liner", "img": "628.png", "generated_output": "nave da crociera"}
+{"label": 530, "it": "orologio digitale", "en": "digital clock", "img": "530.png", "generated_output": "orologio digitale"}
+{"label": 982, "it": "sposo", "en": "bridegroom", "img": "982.png", "generated_output": "sposo"}
+{"label": 732, "it": "fotografia istantanea", "en": "Polaroid Land camera", "img": "732.png", "generated_output": "Macchina fotografica Polaroid Land"}
+{"label": 370, "it": "cercopiteco", "en": "guenon", "img": "370.png", "generated_output": "guenone"}
+{"label": 879, "it": "ombrello", "en": "umbrella", "img": "879.png", "generated_output": "ombrello"}
+{"label": 0, "it": "Tinche", "en": "Tinca tinca", "img": "0.png", "generated_output": "Tinca tinca -> Tinca comune"}
+{"label": 708, "it": "piedistallo", "en": "plinth", "img": "708.png", "generated_output": "basamento"}
+{"label": 935, "it": "pur\u00e8", "en": "mashed potato", "img": "935.png", "generated_output": "patate schiacciate"}
+{"label": 573, "it": "kart", "en": "go-kart", "img": "573.png", "generated_output": "go-kart"}
+{"label": 861, "it": "asse del water", "en": "toilet seat", "img": "861.png", "generated_output": "sedile del water"}
+{"label": 270, "it": "Lupo della Groenlandia", "en": "white wolf", "img": "270.png", "generated_output": "Lupo bianco."}
+{"label": 29, "it": "Proteidae", "en": "axolotl", "img": "29.png", "generated_output": "assolotlo"}
+{"label": 850, "it": "orsacchiotto", "en": "teddy bear", "img": "850.png", "generated_output": "Orso di peluche"}
+{"label": 608, "it": "blue-jeans", "en": "jeans", "img": "608.png", "generated_output": "jeans"}
+{"label": 4, "it": "pesce martello", "en": "hammerhead", "img": "4.png", "generated_output": "squalo martello"}
+{"label": 113, "it": "chiocciola", "en": "snail", "img": "113.png", "generated_output": "chiocciola"}
+{"label": 405, "it": "dirigibile", "en": "airship", "img": "405.png", "generated_output": "dirigibile"}
+{"label": 447, "it": "binocolo", "en": "field glasses", "img": "447.png", "generated_output": "binocoli"}
+{"label": 809, "it": "scodella", "en": "soup bowl", "img": "809.png", "generated_output": "zuppa ciotola"}
+{"label": 975, "it": "lungolago", "en": "lakeside", "img": "975.png", "generated_output": "lungolago"}
+{"label": 897, "it": "lavatrice", "en": "washing machine", "img": "897.png", "generated_output": "Lavasciuga."}
+{"label": 280, "it": "urucione", "en": "grey fox", "img": "280.png", "generated_output": "volpe grigia"}
+{"label": 388, "it": "Panda pornografia", "en": "giant panda", "img": "388.png", "generated_output": "panda gigante"}
+{"label": 617, "it": "camice", "en": "laboratory coat", "img": "617.png", "generated_output": "Camice da laboratorio"}
+{"label": 538, "it": "cupola a cipolla", "en": "dome", "img": "538.png", "generated_output": "cupola"}
+{"label": 780, "it": "scuna", "en": "schooner", "img": "780.png", "generated_output": "goeletta"}
+{"label": 834, "it": "vestito", "en": "suit of clothes", "img": "834.png", "generated_output": "abito da uomo"}
+{"label": 485, "it": "lettore CD", "en": "CD player", "img": "485.png", "generated_output": "Lettore CD"}
+{"label": 640, "it": "chiusino", "en": "manhole cover", "img": "640.png", "generated_output": "Tappo di accesso alle fogne"}
+{"label": 481, "it": "cassetta", "en": "cassette", "img": "481.png", "generated_output": "cassetta"}
+{"label": 492, "it": "baule", "en": "chest", "img": "492.png", "generated_output": "scrigno"}
+{"label": 657, "it": "razzo", "en": "missile", "img": "657.png", "generated_output": "missile"}
+{"label": 686, "it": "filtro dell'olio", "en": "oil filter", "img": "686.png", "generated_output": "Filtro dell'olio"}
+{"label": 680, "it": "tettarella", "en": "nipple", "img": "680.png", "generated_output": "capezzolo"}
+{"label": 700, "it": "scottex", "en": "paper towel", "img": "700.png", "generated_output": "Asciugamani di carta"}
+{"label": 616, "it": "nodo", "en": "knot", "img": "616.png", "generated_output": "nodo"}
+{"label": 728, "it": "sacchetto di plastica", "en": "plastic bag", "img": "728.png", "generated_output": "sacchetto di plastica"}
+{"label": 509, "it": "pasticceria", "en": "confectionary", "img": "509.png", "generated_output": "dolciumi"}
+{"label": 738, "it": "vaso per fiori", "en": "pot", "img": "738.png", "generated_output": "vaso"}
+{"label": 252, "it": "Affenpinsher", "en": "monkey dog", "img": "252.png", "generated_output": "cane scimmia"}
+{"label": 595, "it": "raccoglitrice", "en": "reaper", "img": "595.png", "generated_output": "mietitrebbiatrice"}
+{"label": 782, "it": "schermo", "en": "screen", "img": "782.png", "generated_output": "schermo"}
+{"label": 645, "it": "albero di maggio", "en": "maypole", "img": "645.png", "generated_output": "albero di maggio"}
+{"label": 9, "it": "struzzo", "en": "Struthio camelus", "img": "9.png", "generated_output": "Struzzo comune"}
+{"label": 421, "it": "balaustrata", "en": "balustrade", "img": "421.png", "generated_output": "ringhiera"}
+{"label": 514, "it": "stivali da cow boy", "en": "cowboy boot", "img": "514.png", "generated_output": "stivale da cowboy"}
+{"label": 520, "it": "lettino", "en": "crib", "img": "520.png", "generated_output": "culletta"}
+{"label": 997, "it": "boleto", "en": "bolete", "img": "997.png", "generated_output": "fungo porcino"}
+{"label": 565, "it": "carro merci", "en": "freight car", "img": "565.png", "generated_output": "vagone merci"}
+{"label": 302, "it": "Carabi", "en": "ground beetle", "img": "302.png", "generated_output": "carabide"}
+{"label": 319, "it": "libellula", "en": "mosquito hawk", "img": "319.png", "generated_output": "libellula"}
+{"label": 707, "it": "telefono pubblico", "en": "pay-station", "img": "707.png", "generated_output": "cabina telefonica a pagamento"}
+{"label": 293, "it": "ghepardo", "en": "cheetah", "img": "293.png", "generated_output": "ghepardo"}
+{"label": 464, "it": "fibbia", "en": "buckle", "img": "464.png", "generated_output": "fibbia"}
+{"label": 467, "it": "macelleria", "en": "butcher shop", "img": "467.png", "generated_output": "macelleria"}
+{"label": 379, "it": "scimmia urlatrice", "en": "howler", "img": "379.png", "generated_output": "urlatore"}
+{"label": 37, "it": "Tartaruga scatola", "en": "box turtle", "img": "37.png", "generated_output": "tartaruga scatola"}
+{"label": 410, "it": "apiario", "en": "bee house", "img": "410.png", "generated_output": "alveare"}
+{"label": 301, "it": "coccinella", "en": "ladybug", "img": "301.png", "generated_output": "Coccinella"}
+{"label": 833, "it": "sottomarino", "en": "submarine", "img": "833.png", "generated_output": "sottomarino"}
+{"label": 770, "it": "scarpa da ginnastica", "en": "running shoe", "img": "770.png", "generated_output": "scarpa da corsa"}
+{"label": 795, "it": "sci", "en": "ski", "img": "795.png", "generated_output": "Sci"}
+{"label": 48, "it": "drago di Komodo", "en": "giant lizard", "img": "48.png", "generated_output": "grande lucertola"}
+{"label": 927, "it": "zuppa inglese", "en": "trifle", "img": "927.png", "generated_output": "trifle: budino\n\nHowever, considering the image and common translation for \"trifle\", I provide:\n\nbudino a strati"}
+{"label": 740, "it": "trapano elettrico", "en": "power drill", "img": "740.png", "generated_output": "trapano elettrico"}
+{"label": 250, "it": "husky siberiano", "en": "Siberian husky", "img": "250.png", "generated_output": "Husky siberiano"}
+{"label": 844, "it": "interruttore", "en": "electrical switch", "img": "844.png", "generated_output": "interruttore elettrico"}
+{"label": 772, "it": "spilla di sicurezza", "en": "safety pin", "img": "772.png", "generated_output": "Spilla di sicurezza"}
+{"label": 385, "it": "elefante asiatico", "en": "Indian elephant", "img": "385.png", "generated_output": "Elefante indiano"}
+{"label": 487, "it": "cellulare", "en": "cellphone", "img": "487.png", "generated_output": "telefono cellulare"}
+{"label": 755, "it": "radiotelescopio", "en": "radio telescope", "img": "755.png", "generated_output": "telescopio radio"}
+{"label": 979, "it": "valle", "en": "valley", "img": "979.png", "generated_output": "valle"}
+{"label": 869, "it": "trench", "en": "trench coat", "img": "869.png", "generated_output": "impermeabile"}
+{"label": 819, "it": "palco", "en": "stage", "img": "819.png", "generated_output": "palco"}
+{"label": 176, "it": "levriero persiano", "en": "gazelle hound", "img": "176.png", "generated_output": "levriero"}
+{"label": 873, "it": "arco di trionfo", "en": "triumphal arch", "img": "873.png", "generated_output": "Arco trionfale"}
+{"label": 889, "it": "violino folk", "en": "violin", "img": "889.png", "generated_output": "violino"}
+{"label": 81, "it": "pernice bianca", "en": "ptarmigan", "img": "81.png", "generated_output": "fagiano di monte"}
+{"label": 298, "it": "mangosta", "en": "mongoose", "img": "298.png", "generated_output": "tasso del deserto"}
+{"label": 257, "it": "cane da montagna dei Pirenei", "en": "Great Pyrenees", "img": "257.png", "generated_output": "Pirenei gigante"}
+{"label": 649, "it": "megalito", "en": "megalithic structure", "img": "649.png", "generated_output": "struttura megalitica"}
+{"label": 513, "it": "cornetta", "en": "trumpet", "img": "513.png", "generated_output": "tromba"}
+{"label": 902, "it": "fischio", "en": "whistle", "img": "902.png", "generated_output": "fischietto"}
+{"label": 406, "it": "altare", "en": "altar", "img": "406.png", "generated_output": "altare"}
+{"label": 992, "it": "agarico", "en": "agaric", "img": "992.png", "generated_output": "agarico"}
+{"label": 555, "it": "camion dei pompieri", "en": "fire engine", "img": "555.png", "generated_output": "autopompa antincendio"}
+{"label": 103, "it": "ornitorinco", "en": "duck-billed platypus", "img": "103.png", "generated_output": "ornitorinco"}
+{"label": 350, "it": "stambecco", "en": "Capra ibex", "img": "350.png", "generated_output": "Capra ibex"}
+{"label": 402, "it": "chitarra acustica", "en": "acoustic guitar", "img": "402.png", "generated_output": "chitarra acustica"}
+{"label": 51, "it": "triceratope", "en": "triceratops", "img": "51.png", "generated_output": "triceratops -> triceratopo."}
+{"label": 486, "it": "basso di viola da braccio", "en": "violoncello", "img": "486.png", "generated_output": "violoncello"}
+{"label": 437, "it": "faro", "en": "lighthouse", "img": "437.png", "generated_output": "faro"}
+{"label": 878, "it": "tastiera della macchina da scrivere", "en": "typewriter keyboard", "img": "878.png", "generated_output": "tastiera di una macchina da scrivere"}
+{"label": 101, "it": "cinghiale", "en": "tusker", "img": "101.png", "generated_output": "zanna"}
+{"label": 314, "it": "blatta", "en": "cockroach", "img": "314.png", "generated_output": "scarafaggio"}
+{"label": 440, "it": "bottiglia di birra", "en": "beer bottle", "img": "440.png", "generated_output": "bottiglia di birra"}
+{"label": 143, "it": "ostrichiere", "en": "oystercatcher", "img": "143.png", "generated_output": "Beccasine reali"}
+{"label": 448, "it": "gabbietta", "en": "birdhouse", "img": "448.png", "generated_output": "Casetta per uccelli."}
+{"label": 336, "it": "marmotta", "en": "marmot", "img": "336.png", "generated_output": "marmotta"}
+{"label": 489, "it": "reticolato rete metallica", "en": "chainlink fence", "img": "489.png", "generated_output": "recinzione a maglie di filo metallico"}
+{"label": 31, "it": "raganella", "en": "tree-frog", "img": "31.png", "generated_output": "Rana arboricola"}
+{"label": 229, "it": "pastore-inglese-antico", "en": "Old English sheepdog", "img": "229.png", "generated_output": "Pastore inglese antico"}
+{"label": 976, "it": "capo", "en": "foreland", "img": "976.png", "generated_output": "promontorio"}
+{"label": 815, "it": "ragna", "en": "spider web", "img": "815.png", "generated_output": "racchetta da tennis"}
+{"label": 589, "it": "asciugacapelli", "en": "blow drier", "img": "589.png", "generated_output": "Asciugacapelli"}
+{"label": 285, "it": "egiziano", "en": "Egyptian cat", "img": "285.png", "generated_output": "Gatto egiziano"}
+{"label": 111, "it": "ascaride", "en": "nematode", "img": "111.png", "generated_output": "nematode -> nematodi"}
+{"label": 604, "it": "clessidra", "en": "hourglass", "img": "604.png", "generated_output": "sabliera"}
+{"label": 539, "it": "zerbino", "en": "welcome mat", "img": "539.png", "generated_output": "zaino di benvenuto"}
+{"label": 951, "it": "limone", "en": "lemon", "img": "951.png", "generated_output": "limone"}
+{"label": 365, "it": "Pongo (zoologia)", "en": "orangutang", "img": "365.png", "generated_output": "orango"}
+{"label": 880, "it": "monociclo", "en": "unicycle", "img": "880.png", "generated_output": "monociclo"}
+{"label": 887, "it": "paramento liturgico", "en": "vestment", "img": "887.png", "generated_output": "paramento"}
+{"label": 145, "it": "Pinguino re", "en": "Aptenodytes patagonica", "img": "145.png", "generated_output": "Aptenodytes patagonica -> Pinguino reale minore."}
+{"label": 820, "it": "locomotiva", "en": "steam locomotive", "img": "820.png", "generated_output": "locomotiva a vapore"}
+{"label": 211, "it": "Bracco Ungherese", "en": "vizsla", "img": "211.png", "generated_output": "vizsla ungherese"}
+{"label": 969, "it": "specie di zabaione", "en": "eggnog", "img": "969.png", "generated_output": "pan pepato"}
+{"label": 773, "it": "spargisale", "en": "saltshaker", "img": "773.png", "generated_output": "saliera"}
+{"label": 765, "it": "sedia a dondolo", "en": "rocker", "img": "765.png", "generated_output": "dondolo"}
+{"label": 253, "it": "cane del Congo", "en": "basenji", "img": "253.png", "generated_output": "Basenji."}
+{"label": 371, "it": "pata", "en": "patas", "img": "371.png", "generated_output": "patas"}
+{"label": 380, "it": "Callicebus", "en": "titi monkey", "img": "380.png", "generated_output": "Scimmia titi"}
+{"label": 534, "it": "lavastoviglie", "en": "dishwashing machine", "img": "534.png", "generated_output": "Lavasciuga"}
+{"label": 94, "it": "colibr\u00ec", "en": "hummingbird", "img": "94.png", "generated_output": "colibr\u00ec"}
+{"label": 666, "it": "mortaio", "en": "mortar", "img": "666.png", "generated_output": "mortaio"}
+{"label": 397, "it": "pesce palla", "en": "blowfish", "img": "397.png", "generated_output": "pesce palla"}
+{"label": 125, "it": "bernardo l\u2019eremita", "en": "hermit crab", "img": "125.png", "generated_output": "granchio eremita"}
+{"label": 682, "it": "obelisco", "en": "obelisk", "img": "682.png", "generated_output": "obelisco"}
+{"label": 559, "it": "sedia pieghevole", "en": "folding chair", "img": "559.png", "generated_output": "sedia pieghevole"}
+{"label": 596, "it": "accetta", "en": "hatchet", "img": "596.png", "generated_output": "ascia"}
+{"label": 777, "it": "guaina", "en": "scabbard", "img": "777.png", "generated_output": "fodero"}
+{"label": 566, "it": "corno", "en": "French horn", "img": "566.png", "generated_output": "Corno francese"}
+{"label": 316, "it": "cicala (insetto)", "en": "cicala", "img": "316.png", "generated_output": "cicala"}
+{"label": 932, "it": "Breze", "en": "pretzel", "img": "932.png", "generated_output": "Bretzel"}
+{"label": 600, "it": "trappola", "en": "claw", "img": "600.png", "generated_output": "artiglio"}
+{"label": 74, "it": "epeira", "en": "Aranea diademata", "img": "74.png", "generated_output": "Aranea diademata \u00e8 il nome scientifico dell'ragnatela ragnatela comune o ragno crociato, una specie di ragno appartenente alla famiglia Araneidae."}
+{"label": 933, "it": "hamburger al formaggio", "en": "cheeseburger", "img": "933.png", "generated_output": "panino al formaggio"}
+{"label": 429, "it": "Palla da baseball", "en": "baseball", "img": "429.png", "generated_output": "pallabase"}
+{"label": 351, "it": "alcelafo", "en": "hartebeest", "img": "351.png", "generated_output": "antilocapra"}
+{"label": 752, "it": "racchetta", "en": "racket (sports equipment)", "img": "752.png", "generated_output": "Racchetta (attrezzatura sportiva)"}
+{"label": 855, "it": "ditale", "en": "thimble", "img": "855.png", "generated_output": "ditale"}
+{"label": 283, "it": "Persiano (gatto)", "en": "Persian cat", "img": "283.png", "generated_output": "Gatto persiano"}
+{"label": 885, "it": "velluto", "en": "velvet", "img": "885.png", "generated_output": "velluto"}
+{"label": 135, "it": "Aramidae", "en": "limpkin", "img": "135.png", "generated_output": "Limpkin (Rostratus americano) \u00e8 un uccello simile ad un airone, originario dell'America."}
+{"label": 681, "it": "portatile", "en": "notebook computer", "img": "681.png", "generated_output": "computer portatile"}
+{"label": 733, "it": "palo", "en": "pole", "img": "733.png", "generated_output": "palo"}
+{"label": 374, "it": "Colobidae", "en": "langur", "img": "374.png", "generated_output": "langur"}
+{"label": 391, "it": "Salmo hisutch", "en": "cohoe", "img": "391.png", "generated_output": "coho"}
+{"label": 494, "it": "suoneria", "en": "gong", "img": "494.png", "generated_output": "grongo"}
+{"label": 352, "it": "melampo", "en": "Aepyceros melampus", "img": "352.png", "generated_output": "Aepyceros melampus si traduce in italiano come \"impala\". \n\nTuttavia, la traduzione pi\u00f9 adatta in questo contesto \u00e8: \n\nImpala comune. \n\nIn questo caso specifico, traducendo solo il nome scientifico: \nAepyceros melampus -> Impala comune non \u00e8 la risposta esatta.\n\nLa risposta \u00e8: \nAepyceros melampus"}
+{"label": 244, "it": "mastino tibetano", "en": "Tibetan mastiff", "img": "244.png", "generated_output": "Mastino tibetano"}
+{"label": 30, "it": "rana toro", "en": "Rana catesbeiana", "img": "30.png", "generated_output": "Rana catesbeiana, conosciuta anche come rana toro o rana americana, \u00e8 una specie di rana originaria dell'America del Nord."}
+{"label": 611, "it": "gioco ad incastro", "en": "jigsaw puzzle", "img": "611.png", "generated_output": "rompecapo"}
+{"label": 721, "it": "cuscino", "en": "pillow", "img": "721.png", "generated_output": "cuscino"}
+{"label": 105, "it": "Phascolarctos", "en": "native bear", "img": "105.png", "generated_output": "orso nativo"}
+{"label": 454, "it": "libreria", "en": "bookshop", "img": "454.png", "generated_output": "libraia"}
+{"label": 75, "it": "vedova nera", "en": "Latrodectus mactans", "img": "75.png", "generated_output": "Latrodectus mactans \u00e8 conosciuto anche come \"vedova nera\". Tuttavia, solo il testo: \"Latrodectus mactans\" deve essere tradotto. \nLa traduzione \u00e8: Latrodectus mactans. \n\nTuttavia, se volessimo dare un nome in italiano al soggetto dell'immagine, potremmo usare: Vedova Nera. Ma la richiesta era solo la traduzione di \"Latrodectus mactans\". \n\nLatrodectus mactans"}
+{"label": 381, "it": "scimmia ragno", "en": "Ateles geoffroyi", "img": "381.png", "generated_output": "Ateles geoffroyi \u00e8 una specie di primate platirrine della famiglia Atelidae, diffusa in Messico, Guatemala, Honduras, El Salvador e Nicaragua."}
+{"label": 474, "it": "golf", "en": "cardigan", "img": "474.png", "generated_output": "cardigan"}
+{"label": 842, "it": "calzoncini da bagno", "en": "swimming trunks", "img": "842.png", "generated_output": "costume da bagno"}
+{"label": 881, "it": "pianoforte verticale", "en": "upright", "img": "881.png", "generated_output": "verticale"}
+{"label": 524, "it": "corazza", "en": "cuirass", "img": "524.png", "generated_output": "corazza"}
+{"label": 146, "it": "albatros", "en": "mollymawk", "img": "146.png", "generated_output": "albatro"}
+{"label": 401, "it": "fisarmoniche", "en": "accordion", "img": "401.png", "generated_output": "armonica a bocca"}
+{"label": 629, "it": "rossetto", "en": "lip rouge", "img": "629.png", "generated_output": "rossetto"}
+{"label": 386, "it": "elefante africano", "en": "Loxodonta africana", "img": "386.png", "generated_output": "Loxodonta africana ->  Non disponibile, tuttavia, l'immagine mostra un elefante, quindi la traduzione del nome comune potrebbe essere: Elefante africano. \nLa risposta \u00e8: Elefante africano."}
+{"label": 787, "it": "scudo", "en": "buckler", "img": "787.png", "generated_output": "scudo"}
+{"label": 254, "it": "carlino", "en": "pug-dog", "img": "254.png", "generated_output": "cane-pug"}
+{"label": 957, "it": "melagrana", "en": "pomegranate", "img": "957.png", "generated_output": "melograno"}
+{"label": 360, "it": "lontra", "en": "otter", "img": "360.png", "generated_output": "lonza"}
+{"label": 375, "it": "colobo", "en": "colobus monkey", "img": "375.png", "generated_output": "scimmia colobo"}
+{"label": 461, "it": "corazza", "en": "breastplate", "img": "461.png", "generated_output": "Pettorale"}
+{"label": 908, "it": "ala", "en": "wing", "img": "908.png", "generated_output": "ala"}
+{"label": 918, "it": "cruciverba", "en": "crossword", "img": "918.png", "generated_output": "cruciverba"}
+{"label": 289, "it": "leopardo delle nevi", "en": "ounce", "img": "289.png", "generated_output": "oncia"}
+{"label": 303, "it": "cerambice", "en": "longicorn", "img": "303.png", "generated_output": "coleottero a corna lunghe"}
+{"label": 277, "it": "volpe", "en": "Vulpes vulpes", "img": "277.png", "generated_output": "Volpe rossa"}
+{"label": 470, "it": "candela", "en": "candle", "img": "470.png", "generated_output": "candela"}
+{"label": 153, "it": "maltese (razza canina)", "en": "Maltese terrier", "img": "153.png", "generated_output": "Terrier maltese"}
+{"label": 631, "it": "lozione", "en": "lotion", "img": "631.png", "generated_output": "lozione"}
+{"label": 749, "it": "calamo", "en": "quill", "img": "749.png", "generated_output": "penna d'oca"}
+{"label": 552, "it": "boa (abbigliamento)", "en": "feather boa", "img": "552.png", "generated_output": "boa di piume"}
+{"label": 946, "it": "cardo", "en": "cardoon", "img": "946.png", "generated_output": "cardi"}
+{"label": 950, "it": "arancia", "en": "orange", "img": "950.png", "generated_output": "arancia"}
+{"label": 378, "it": "scimmia cappuccina", "en": "capuchin", "img": "378.png", "generated_output": "scimmia cappuccina"}
+{"label": 579, "it": "pianoforte a coda", "en": "grand", "img": "579.png", "generated_output": "grande"}
+{"label": 297, "it": "orso giocoliere", "en": "sloth bear", "img": "297.png", "generated_output": "orso pigro"}
+{"label": 507, "it": "Serratura a combinazione", "en": "combination lock", "img": "507.png", "generated_output": "Lucchetto a combinazione."}
+{"label": 667, "it": "tocco (copricapo)", "en": "mortarboard", "img": "667.png", "generated_output": "berretta"}
+{"label": 100, "it": "cigno nero", "en": "black swan", "img": "100.png", "generated_output": "Cigno nero"}
+{"label": 510, "it": "portacontainer", "en": "containership", "img": "510.png", "generated_output": "nave portacontainer"}
+{"label": 536, "it": "darsena", "en": "dockage", "img": "536.png", "generated_output": "ormeggio"}
+{"label": 587, "it": "martello", "en": "hammer", "img": "587.png", "generated_output": "martello"}
+{"label": 516, "it": "culla", "en": "cradle", "img": "516.png", "generated_output": "culla"}
+{"label": 444, "it": "Tandem (aeronautica)", "en": "bicycle-built-for-two", "img": "444.png", "generated_output": "bicicletta costruita per due"}
+{"label": 354, "it": "dromedario", "en": "dromedary", "img": "354.png", "generated_output": "dromedario"}
+{"label": 286, "it": "leone americano", "en": "Felis concolor", "img": "286.png", "generated_output": "Felis concolor is translated to \"Gatto delle pampas\" in Italian, however, given the image of a cheetah, it seems there might be some confusion because \"Felis concolor\" actually refers to the cougar or puma, not a cheetah. The correct translation for the species name \"Felis concolor\" is \"Gatto delle pampas\" or simply \"Puma\". \n\nHowever, if we strictly translate \"Felis concolor\" without considering the common name:\n \nThe answer is: Felis concolor."}
+{"label": 272, "it": "coiote", "en": "prairie wolf", "img": "272.png", "generated_output": "Lupo della prateria"}
+{"label": 529, "it": "pannolino", "en": "napkin", "img": "529.png", "generated_output": "fazzoletto"}
+{"label": 762, "it": "ristorante", "en": "eating house", "img": "762.png", "generated_output": "casa da mangiare"}
+{"label": 372, "it": "babbuino", "en": "baboon", "img": "372.png", "generated_output": "babbuino"}
+{"label": 517, "it": "gru", "en": "crane", "img": "517.png", "generated_output": "gru"}
+{"label": 123, "it": "aragosta", "en": "crayfish", "img": "123.png", "generated_output": "astice"}
+{"label": 532, "it": "tavolo da pranzo", "en": "dining table", "img": "532.png", "generated_output": "tavola da pranzo"}
+{"label": 709, "it": "astuccio", "en": "pencil case", "img": "709.png", "generated_output": "astuccio per matite"}
+{"label": 177, "it": "levriero inglese a pelo ruvido", "en": "Scottish deerhound", "img": "177.png", "generated_output": "Levriero scozzese."}
+{"label": 411, "it": "grembiule", "en": "apron", "img": "411.png", "generated_output": " grembiule"}
+{"label": 348, "it": "montone", "en": "tup", "img": "348.png", "generated_output": "montone"}
+{"label": 342, "it": "cinghiale", "en": "boar", "img": "342.png", "generated_output": "cinghiale"}
+{"label": 618, "it": "mestolo", "en": "ladle", "img": "618.png", "generated_output": "pentola"}
+{"label": 469, "it": "calderone", "en": "caldron", "img": "469.png", "generated_output": "pentola"}
+{"label": 783, "it": "vite", "en": "screw", "img": "783.png", "generated_output": "vite"}
+{"label": 377, "it": "uistit\u00ec", "en": "marmoset", "img": "377.png", "generated_output": "ouistiti"}
+{"label": 426, "it": "barometro", "en": "barometer", "img": "426.png", "generated_output": "barometro"}
+{"label": 472, "it": "canoa", "en": "canoe", "img": "472.png", "generated_output": "canoe"}
+{"label": 606, "it": "ferro da stiro", "en": "iron", "img": "606.png", "generated_output": "ferro"}
+{"label": 882, "it": "aspirapolvere", "en": "vacuum cleaner", "img": "882.png", "generated_output": "aspirapolvere"}
+{"label": 436, "it": "familiare", "en": "estate car", "img": "436.png", "generated_output": "vagone"}
+{"label": 741, "it": "tappeto da preghiera", "en": "prayer rug", "img": "741.png", "generated_output": "Tappeto da preghiera"}
+{"label": 674, "it": "trappola per topi", "en": "mousetrap", "img": "674.png", "generated_output": "trappola per topi"}
+{"label": 962, "it": "polpettone", "en": "meat loaf", "img": "962.png", "generated_output": "polpettone"}
+{"label": 920, "it": "segnali di traffico", "en": "traffic light", "img": "920.png", "generated_output": "semaforo"}
+{"label": 797, "it": "sacco a pelo", "en": "sleeping bag", "img": "797.png", "generated_output": "saccone per dormire"}
+{"label": 294, "it": "orso bruno", "en": "brown bear", "img": "294.png", "generated_output": "orso bruno"}
+{"label": 208, "it": "labrador", "en": "Labrador retriever", "img": "208.png", "generated_output": "Labrador retriever"}
+{"label": 823, "it": "stetoscopio", "en": "stethoscope", "img": "823.png", "generated_output": "fonendoscopio"}
+{"label": 284, "it": "gatto siamese", "en": "Siamese cat", "img": "284.png", "generated_output": "Gatto siamese"}
+{"label": 915, "it": "iurta", "en": "yurt", "img": "915.png", "generated_output": "yurta"}
+{"label": 843, "it": "altalena", "en": "swing", "img": "843.png", "generated_output": "altalena"}
+{"label": 602, "it": "Sbarra", "en": "horizontal bar", "img": "602.png", "generated_output": "barra orizzontale"}
+{"label": 54, "it": "vipera del deserto", "en": "puff adder", "img": "54.png", "generated_output": "vipera del Gabon"}
+{"label": 347, "it": "bisonte", "en": "bison", "img": "347.png", "generated_output": "bufalo"}
+{"label": 34, "it": "tartaruga liuto", "en": "leatherback turtle", "img": "34.png", "generated_output": "tartaruga liuto"}
+{"label": 560, "it": "casco da football", "en": "football helmet", "img": "560.png", "generated_output": "casco da football"}
+{"label": 581, "it": "griglia", "en": "grille", "img": "581.png", "generated_output": "griglia"}
+{"label": 847, "it": "carro armato", "en": "armored combat vehicle", "img": "847.png", "generated_output": "veicolo da combattimento corazzato"}
+{"label": 493, "it": "canterano", "en": "chiffonier", "img": "493.png", "generated_output": "armadio"}
+{"label": 278, "it": "volpe pigmea americana", "en": "kit fox", "img": "278.png", "generated_output": "volpe cucciola"}
+{"label": 80, "it": "Fagiano di monte eurasiatico", "en": "black grouse", "img": "80.png", "generated_output": "Tetrao nero"}
+{"label": 896, "it": "lavandino", "en": "handbasin", "img": "896.png", "generated_output": "Lavabo"}
+{"label": 526, "it": "scrittoio", "en": "desk", "img": "526.png", "generated_output": "Scrivania"}
+{"label": 648, "it": "armadietto dei medicinali", "en": "medicine cabinet", "img": "648.png", "generated_output": "armadietto dei medicinali"}
+{"label": 802, "it": "gatto delle nevi", "en": "snowmobile", "img": "802.png", "generated_output": " motoscafo per neve"}
+{"label": 3, "it": "squalo tigre", "en": "tiger shark", "img": "3.png", "generated_output": "squalo tigre"}
+{"label": 383, "it": "lemure catta", "en": "Lemur catta", "img": "383.png", "generated_output": "Lemure catta"}
+{"label": 1, "it": "pesce rosso", "en": "goldfish", "img": "1.png", "generated_output": "pesce  rosso"}
+{"label": 300, "it": "cicindela", "en": "tiger beetle", "img": "300.png", "generated_output": "scarabeo tigre"}
+{"label": 792, "it": "pala", "en": "shovel", "img": "792.png", "generated_output": "pala"}
+{"label": 471, "it": "cannone", "en": "cannon", "img": "471.png", "generated_output": "canone"}
+{"label": 49, "it": "Coccodrillo del Nilo", "en": "Crocodylus niloticus", "img": "49.png", "generated_output": "Crocodylus niloticus\n Traduzione in italiano: Crocodylus niloticus (non necessita di traduzione, \u00e8 un nome scientifico)\n\nHowever, I will provide it as per your request:\n\nCrocodylus niloticus"}
+{"label": 562, "it": "fontana", "en": "fountain", "img": "562.png", "generated_output": "fontana"}
+{"label": 358, "it": "puzzola europea", "en": "foulmart", "img": "358.png", "generated_output": "faina"}
+{"label": 891, "it": "macchina per waffle", "en": "waffle iron", "img": "891.png", "generated_output": "Piastra per waffle"}
+{"label": 745, "it": "proiettore", "en": "projector", "img": "745.png", "generated_output": "proiettore"}
+{"label": 508, "it": "tastiera", "en": "keypad", "img": "508.png", "generated_output": "tastiera"}
+{"label": 288, "it": "leopardo", "en": "leopard", "img": "288.png", "generated_output": "leopardo"}
+{"label": 465, "it": "giubbotto antiproiettile", "en": "bulletproof vest", "img": "465.png", "generated_output": "giubbotto antiproiettile"}
+{"label": 330, "it": "Silvilago", "en": "wood rabbit", "img": "330.png", "generated_output": "coniglio delle paludi"}
+{"label": 866, "it": "motrice", "en": "tractor", "img": "866.png", "generated_output": "trattore"}
+{"label": 24, "it": "Gufo della Lapponia", "en": "great gray owl", "img": "24.png", "generated_output": "gufo grigio grande"}
+{"label": 84, "it": "pavone", "en": "peacock", "img": "84.png", "generated_output": "Pavone"}
+{"label": 601, "it": "crinolina", "en": "hoopskirt", "img": "601.png", "generated_output": "gonna a cerchio"}
+{"label": 353, "it": "gazzelle", "en": "gazelle", "img": "353.png", "generated_output": "gazzella"}
+{"label": 281, "it": "gatto soriano", "en": "tabby cat", "img": "281.png", "generated_output": "gatto tigrato"}
+{"label": 851, "it": "radiotelevisione", "en": "television", "img": "851.png", "generated_output": "televisione"}
+{"label": 677, "it": "chiodo", "en": "nail (fastener)", "img": "677.png", "generated_output": "chiodo (elemento di fissaggio)"}
+{"label": 503, "it": "shaker", "en": "cocktail shaker", "img": "503.png", "generated_output": "shaker per cocktail"}
+{"label": 747, "it": "sacco", "en": "punching ball", "img": "747.png", "generated_output": "palla da pugni"}
+{"label": 433, "it": "cuffia da nuoto", "en": "swimming cap", "img": "433.png", "generated_output": "cappello da nuoto"}
+{"label": 791, "it": "carrello", "en": "shopping cart", "img": "791.png", "generated_output": "Carrello della spesa"}
+{"label": 818, "it": "riflettore", "en": "spot", "img": "818.png", "generated_output": "macchia"}
+{"label": 620, "it": "computer portatile", "en": "laptop", "img": "620.png", "generated_output": "portatile"}
+{"label": 585, "it": "Lacca per capelli", "en": "hair spray", "img": "585.png", "generated_output": "spray per capelli"}
+{"label": 669, "it": "Zanzariera", "en": "mosquito net", "img": "669.png", "generated_output": "rete per zanzare"}
+{"label": 892, "it": "orologio a parete", "en": "wall clock", "img": "892.png", "generated_output": "orologio da parete"}
+{"label": 626, "it": "accendino", "en": "light", "img": "626.png", "generated_output": "accendifumo"}
+{"label": 948, "it": "Mela verde Granny Ramsey Smith", "en": "Granny Smith", "img": "948.png", "generated_output": "Mela Granny Smith"}
+{"label": 128, "it": "cicogna nera", "en": "Ciconia nigra", "img": "128.png", "generated_output": "Ciconia nera"}
+{"label": 744, "it": "proiettile", "en": "projectile", "img": "744.png", "generated_output": "proiettile"}
+{"label": 148, "it": "urca", "en": "killer whale", "img": "148.png", "generated_output": "balena orca"}
+{"label": 694, "it": "ruota a pale", "en": "paddle wheel", "img": "694.png", "generated_output": "ruota a pale"}
+{"label": 810, "it": "barra spaziatrice", "en": "space bar", "img": "810.png", "generated_output": "barra spaziatrice"}
+{"label": 169, "it": "barzoi", "en": "borzoi", "img": "169.png", "generated_output": "Borzoi russo, comunemente detto anche Levriero Russo, \u00e8 una razza di cane."}
+{"label": 295, "it": "orso nero americano", "en": "black bear", "img": "295.png", "generated_output": "orso nero"}
+{"label": 583, "it": "ghigliottina", "en": "guillotine", "img": "583.png", "generated_output": "ghigliottina"}
+{"label": 428, "it": "carriola", "en": "garden cart", "img": "428.png", "generated_output": "carrello da giardino"}
+{"label": 978, "it": "costa", "en": "seashore", "img": "978.png", "generated_output": "litorale"}
+{"label": 163, "it": "segugio", "en": "bloodhound", "img": "163.png", "generated_output": "Cane di Sant'Uberto"}
+{"label": 394, "it": "storione", "en": "sturgeon", "img": "394.png", "generated_output": "storione"}
+{"label": 362, "it": "tasso", "en": "badger", "img": "362.png", "generated_output": "tasso"}
+{"label": 769, "it": "riga (strumento)", "en": "ruler", "img": "769.png", "generated_output": "righello"}
+{"label": 816, "it": "fuso", "en": "spindle", "img": "816.png", "generated_output": "rocca"}
+{"label": 144, "it": "pellicano", "en": "Pelecanus", "img": "144.png", "generated_output": "Pelicano"}
+{"label": 308, "it": "mosca", "en": "fly", "img": "308.png", "generated_output": "mosca"}
+{"label": 856, "it": "trebbiatrice", "en": "threshing machine", "img": "856.png", "generated_output": "Trebbiatrice"}
+{"label": 831, "it": "divano letto", "en": "studio couch", "img": "831.png", "generated_output": "divano studio"}
+{"label": 917, "it": "fumetto", "en": "comic book", "img": "917.png", "generated_output": "fumetto"}
+{"label": 344, "it": "ippopotamo", "en": "hippopotamus", "img": "344.png", "generated_output": "ippopotamo"}
+{"label": 170, "it": "levriero irlandese", "en": "Irish wolfhound", "img": "170.png", "generated_output": "Cane lupo irlandese"}
+{"label": 333, "it": "criceto", "en": "hamster", "img": "333.png", "generated_output": "Criceto"}
+{"label": 114, "it": "limaccia", "en": "slug", "img": "114.png", "generated_output": "lumaca"}
+{"label": 57, "it": "serpente giarrettiera", "en": "garter snake", "img": "57.png", "generated_output": "serpente giarrettiera"}
+{"label": 18, "it": "gazza", "en": "magpie", "img": "18.png", "generated_output": "gazza"}
+{"label": 99, "it": "oca", "en": "goose", "img": "99.png", "generated_output": "oca"}
+{"label": 678, "it": "collarino cervicale", "en": "neck brace", "img": "678.png", "generated_output": "collare cervicale"}
+{"label": 491, "it": "motosega", "en": "chain saw", "img": "491.png", "generated_output": "Sega a catena"}
+{"label": 663, "it": "monastero", "en": "monastery", "img": "663.png", "generated_output": "monastero"}
+{"label": 827, "it": "stufa", "en": "stove", "img": "827.png", "generated_output": "fornello"}
+{"label": 967, "it": "caff\u00e8", "en": "espresso", "img": "967.png", "generated_output": "espresso"}
+{"label": 366, "it": "Gorillini", "en": "Gorilla gorilla", "img": "366.png", "generated_output": "Gorilla occidentale"}
+{"label": 339, "it": "sauro", "en": "sorrel", "img": "339.png", "generated_output": "baio"}
+{"label": 408, "it": "veicolo anfibio", "en": "amphibious vehicle", "img": "408.png", "generated_output": "veicolo anfibio"}
+{"label": 367, "it": "scimpanz\u00e8", "en": "Pan troglodytes", "img": "367.png", "generated_output": "Pongo troglodytes"}
+{"label": 576, "it": "gondola veneziana", "en": "gondola", "img": "576.png", "generated_output": "gondola"}
+{"label": 477, "it": "kit di attrezzi", "en": "carpenter's kit", "img": "477.png", "generated_output": "kit del falegname"}
+{"label": 734, "it": "Cellulare", "en": "wagon", "img": "734.png", "generated_output": "vagone"}
+{"label": 670, "it": "motoretta", "en": "motor scooter", "img": "670.png", "generated_output": " scooter motorino"}
+{"label": 759, "it": "reflex", "en": "reflex camera", "img": "759.png", "generated_output": "macchina fotografica reflex"}
+{"label": 414, "it": "zaino", "en": "backpack", "img": "414.png", "generated_output": "Zaino"}
+{"label": 274, "it": "cane selvatico asiatico", "en": "Cuon alpinus", "img": "274.png", "generated_output": "Cuon alpino"}
+{"label": 547, "it": "locomotiva elettrica", "en": "electric locomotive", "img": "547.png", "generated_output": "locomotiva elettrica"}
+{"label": 506, "it": "elica", "en": "helix", "img": "506.png", "generated_output": "elica"}
+{"label": 304, "it": "Chrysomelidi", "en": "leaf beetle", "img": "304.png", "generated_output": "scarabeo foglia"}
+{"label": 178, "it": "Bracco di Weimar", "en": "Weimaraner", "img": "178.png", "generated_output": "Weimaraner."}
+{"label": 217, "it": "Springer spaniel inglese", "en": "English springer", "img": "217.png", "generated_output": "Springer inglese"}
+{"label": 140, "it": "Piovanello pancianera", "en": "Erolia alpina", "img": "140.png", "generated_output": "Pipitrazza alpina"}
+{"label": 279, "it": "volpe bianca", "en": "Arctic fox", "img": "279.png", "generated_output": "Volpe artica"}
+{"label": 857, "it": "trono", "en": "throne", "img": "857.png", "generated_output": "trono"}
+{"label": 77, "it": "ragno-lupo", "en": "hunting spider", "img": "77.png", "generated_output": "ragno cacciatore"}
+{"label": 668, "it": "moschea", "en": "mosque", "img": "668.png", "generated_output": "moschea"}
+{"label": 859, "it": "tostapane", "en": "toaster", "img": "859.png", "generated_output": "Tostapane"}
+{"label": 854, "it": "Sipario", "en": "theater curtain", "img": "854.png", "generated_output": "tenda del teatro"}
+{"label": 987, "it": "granaglie", "en": "corn", "img": "987.png", "generated_output": "mais"}
+{"label": 877, "it": "tornello", "en": "turnstile", "img": "877.png", "generated_output": "girandola"}
+{"label": 651, "it": "microonde", "en": "microwave oven", "img": "651.png", "generated_output": "forno a microonde"}
+{"label": 760, "it": "frigo", "en": "refrigerator", "img": "760.png", "generated_output": "frigorifero"}
+{"label": 407, "it": "ambulanza", "en": "ambulance", "img": "407.png", "generated_output": "ambulanza"}
+{"label": 478, "it": "cartone", "en": "carton", "img": "478.png", "generated_output": "cartone"}
+{"label": 702, "it": "Parallele simmetriche", "en": "bars", "img": "702.png", "generated_output": "stanghe"}
+{"label": 317, "it": "Cicadellidi", "en": "leafhopper", "img": "317.png", "generated_output": "sputacchina"}
+{"label": 431, "it": "culla", "en": "bassinet", "img": "431.png", "generated_output": "culletta"}
+{"label": 701, "it": "paracadute", "en": "parachute", "img": "701.png", "generated_output": "paracadute"}
+{"label": 93, "it": "Bucerotiformes", "en": "hornbill", "img": "93.png", "generated_output": "tucano"}
+{"label": 11, "it": "cardellino", "en": "goldfinch", "img": "11.png", "generated_output": "cardellino"}
+{"label": 498, "it": "cinema (luogo)", "en": "movie theater", "img": "498.png", "generated_output": "cinema"}
+{"label": 425, "it": "granaio", "en": "barn", "img": "425.png", "generated_output": "granaio"}
+{"label": 321, "it": "vanessa", "en": "admiral", "img": "321.png", "generated_output": "ammiraglio"}
+{"label": 345, "it": "bue", "en": "ox", "img": "345.png", "generated_output": "bue"}
+{"label": 955, "it": "frutto dell'albero del pane", "en": "jack", "img": "955.png", "generated_output": "giacche"}
+{"label": 310, "it": "formica", "en": "Formicidae", "img": "310.png", "generated_output": "Formicidi."}
+{"label": 845, "it": "siringa (medicina)", "en": "syringe", "img": "845.png", "generated_output": "siringa"}
+{"label": 127, "it": "cicogna bianca", "en": "white stork", "img": "127.png", "generated_output": "cicogna bianca"}
+{"label": 632, "it": "altoparlante", "en": "loudspeaker", "img": "632.png", "generated_output": "altoparlante"}
+{"label": 256, "it": "cane di Terranova", "en": "Newfoundland", "img": "256.png", "generated_output": "Terranova"}
+{"label": 468, "it": "tass\u00ec", "en": "taxi", "img": "468.png", "generated_output": "tassi"}
+{"label": 122, "it": "astice americano", "en": "American lobster", "img": "122.png", "generated_output": "Aragosta americana"}
+{"label": 525, "it": "argine", "en": "dam", "img": "525.png", "generated_output": " diga"}
+{"label": 90, "it": "tricoglosso", "en": "lorikeet", "img": "90.png", "generated_output": "lorichetto"}
+{"label": 840, "it": "lavapavimenti", "en": "swab", "img": "840.png", "generated_output": "scopa"}
+{"label": 109, "it": "Mussidae", "en": "brain coral", "img": "109.png", "generated_output": "corallo cervello"}
+{"label": 697, "it": "pigiama", "en": "jammies", "img": "697.png", "generated_output": "pigiami"}
+{"label": 675, "it": "furgone per traslochi", "en": "moving van", "img": "675.png", "generated_output": "Furgone per traslochi"}
+{"label": 916, "it": "sito web", "en": "website", "img": "916.png", "generated_output": "sito web"}
+{"label": 324, "it": "cavolaia", "en": "cabbage butterfly", "img": "324.png", "generated_output": "farfalla del cavolo"}
+{"label": 637, "it": "casella postale", "en": "letter box", "img": "637.png", "generated_output": "cassetta delle lettere"}
+{"label": 786, "it": "macchina per cucire", "en": "sewing machine", "img": "786.png", "generated_output": "macchina da cucire"}
+{"label": 427, "it": "barile", "en": "cask", "img": "427.png", "generated_output": "barile"}
+{"label": 913, "it": "relitto", "en": "wreck", "img": "913.png", "generated_output": "relitto"}
+{"label": 890, "it": "pallone da pallavolo", "en": "volleyball", "img": "890.png", "generated_output": "pallavolo"}
+{"label": 97, "it": "anatra maschio", "en": "drake", "img": "97.png", "generated_output": "Anatra maschio"}
+{"label": 69, "it": "Trilobitomorpha", "en": "trilobite", "img": "69.png", "generated_output": "trilobite\n\n(trilobita)"}
+{"label": 6, "it": "pastinaca", "en": "stingray", "img": "6.png", "generated_output": "razza"}
+{"label": 846, "it": "lampada da tavolo", "en": "table lamp", "img": "846.png", "generated_output": "Lampa da tavolo"}
+{"label": 688, "it": "oscilloscopio", "en": "cathode-ray oscilloscope", "img": "688.png", "generated_output": "oscilloscopio a raggi catodici"}
+{"label": 462, "it": "scopa", "en": "broom", "img": "462.png", "generated_output": "Scopa."}
+{"label": 78, "it": "zecca", "en": "tick", "img": "78.png", "generated_output": "zecca"}
+{"label": 390, "it": "anguilla", "en": "eel", "img": "390.png", "generated_output": "Anguilla"}
+{"label": 224, "it": "cane da pastore belga (Groenendael)", "en": "groenendael", "img": "224.png", "generated_output": "groenendael \n\nNota: Groenendael \u00e8 una razza canina, come si pu\u00f2 vedere dall'immagine allegata. La traduzione in italiano \u00e8: Pastore belga (Groenendael). \n\nLa risposta \u00e8: Pastore belga (Groenendael)"}
+{"label": 235, "it": "cane lupo", "en": "German police dog", "img": "235.png", "generated_output": "Cane di polizia tedesco"}
+{"label": 518, "it": "casco", "en": "crash helmet", "img": "518.png", "generated_output": "casco protettivo"}
+{"label": 453, "it": "libreria", "en": "bookcase", "img": "453.png", "generated_output": "Scaffale per libri"}
+{"label": 287, "it": "lince", "en": "lynx", "img": "287.png", "generated_output": "lince"}
+{"label": 246, "it": "danese", "en": "Great Dane", "img": "246.png", "generated_output": "Cane Corso"}
+{"label": 693, "it": "remo", "en": "boat paddle", "img": "693.png", "generated_output": "pagaia da barca"}
+{"label": 134, "it": "gru", "en": "crane", "img": "134.png", "generated_output": "gru"}
+{"label": 95, "it": "galbula", "en": "jacamar", "img": "95.png", "generated_output": "giacamar"}
+{"label": 476, "it": "giostra", "en": "carrousel", "img": "476.png", "generated_output": "carosello"}
+{"label": 731, "it": "sturalavandino", "en": "plumber's helper", "img": "731.png", "generated_output": "Aiuto idraulico"}
+{"label": 276, "it": "iena", "en": "hyena", "img": "276.png", "generated_output": "Iacuta"}
+{"label": 963, "it": "pasta per pizza", "en": "pizza", "img": "963.png", "generated_output": "pizza"}
+{"label": 247, "it": "Cane di San Bernardo", "en": "Saint Bernard", "img": "247.png", "generated_output": "San Bernardo"}
+{"label": 739, "it": "ruota del vasaio", "en": "potter's wheel", "img": "739.png", "generated_output": "Torno del vasaio"}
+{"label": 85, "it": "quaglia", "en": "quail", "img": "85.png", "generated_output": "quaglia"}
+{"label": 643, "it": "maschera", "en": "mask", "img": "643.png", "generated_output": "maschera"}
+{"label": 768, "it": "pallone da rugby", "en": "rugby ball", "img": "768.png", "generated_output": "palla da rugby"}
+{"label": 312, "it": "grillo", "en": "cricket", "img": "312.png", "generated_output": "grillo"}
+{"label": 445, "it": "duepezzi", "en": "bikini", "img": "445.png", "generated_output": "bikini"}
+{"label": 655, "it": "minigonna", "en": "mini", "img": "655.png", "generated_output": "mini gonna"}
+{"label": 679, "it": "collana", "en": "necklace", "img": "679.png", "generated_output": "collana"}
+{"label": 446, "it": "raccoglitore", "en": "binder", "img": "446.png", "generated_output": "portabinder"}
+{"label": 47, "it": "Camaleonte africano", "en": "African chameleon", "img": "47.png", "generated_output": "Camaleonte africano"}
+{"label": 872, "it": "Treppiede", "en": "tripod", "img": "872.png", "generated_output": "treppiede"}
+{"label": 369, "it": "siamango", "en": "siamang", "img": "369.png", "generated_output": "siamango"}
+{"label": 599, "it": "tassellazione dello spazio", "en": "honeycomb", "img": "599.png", "generated_output": "favo"}
+{"label": 291, "it": "leone", "en": "lion", "img": "291.png", "generated_output": "leone"}
+{"label": 551, "it": "cipria", "en": "face powder", "img": "551.png", "generated_output": "polvere per il viso"}
+{"label": 23, "it": "avvoltoio", "en": "vulture", "img": "23.png", "generated_output": "avvoltoio"}
+{"label": 458, "it": "targa", "en": "brass", "img": "458.png", "generated_output": "ottone"}
+{"label": 10, "it": "peppola", "en": "brambling", "img": "10.png", "generated_output": "fringuello"}
+{"label": 432, "it": "fagottista", "en": "bassoon", "img": "432.png", "generated_output": "fagotto"}
+{"label": 108, "it": "Rose di mare", "en": "anemone", "img": "108.png", "generated_output": "anemone di mare"}
+{"label": 794, "it": "tenda da doccia", "en": "shower curtain", "img": "794.png", "generated_output": "tenda della doccia"}
+{"label": 511, "it": "decappottabile", "en": "convertible", "img": "511.png", "generated_output": "convertibile"}
+{"label": 609, "it": "fuoristrada", "en": "jeep", "img": "609.png", "generated_output": "jeep -> jeep (no translation needed, but if we consider the context and a more specific term in Italian) \n Land Rover"}
+{"label": 152, "it": "Chin (razza canina)", "en": "Japanese spaniel", "img": "152.png", "generated_output": "Spaniel giapponese"}
+{"label": 607, "it": "zucca di Halloween", "en": "jack-o'-lantern", "img": "607.png", "generated_output": "zucca intagliata"}
+{"label": 706, "it": "altana", "en": "patio", "img": "706.png", "generated_output": "patio"}
+{"label": 900, "it": "torre piezometrica", "en": "water tower", "img": "900.png", "generated_output": "torre dell'acqua"}
+{"label": 331, "it": "Lepus (zoologia)", "en": "hare", "img": "331.png", "generated_output": "lepre"}
+{"label": 398, "it": "abaco", "en": "abacus", "img": "398.png", "generated_output": "abaco"}
+{"label": 592, "it": "disco rigido", "en": "fixed disk", "img": "592.png", "generated_output": "disco fisso"}
+{"label": 716, "it": "stecconata", "en": "picket fence", "img": "716.png", "generated_output": "recinto di palizzata"}
+{"label": 776, "it": "sassofono", "en": "sax", "img": "776.png", "generated_output": "sassofono"}
+{"label": 341, "it": "maiale", "en": "grunter", "img": "341.png", "generated_output": "grugnito"}
+{"label": 443, "it": "pettina", "en": "bib", "img": "443.png", "generated_output": "bavaglino"}
+{"label": 894, "it": "armadio", "en": "closet", "img": "894.png", "generated_output": "armadio"}
+{"label": 937, "it": "broccolo", "en": "broccoli", "img": "937.png", "generated_output": "broccoli"}
+{"label": 687, "it": "organo", "en": "pipe organ", "img": "687.png", "generated_output": "organo a tubi"}
+{"label": 265, "it": "barboncino nano", "en": "toy poodle", "img": "265.png", "generated_output": "toy poodle -> poodle giocattolo"}
+{"label": 328, "it": "riccio di mare", "en": "sea urchin", "img": "328.png", "generated_output": "riccio di mare"}
+{"label": 42, "it": "Agama (zoologia)", "en": "agama", "img": "42.png", "generated_output": "agama"}
+{"label": 719, "it": "salvadanaio", "en": "penny bank", "img": "719.png", "generated_output": "banca dei centesimi"}
+{"label": 958, "it": "fieno", "en": "hay", "img": "958.png", "generated_output": "fieno"}
+{"label": 803, "it": "spazzaneve", "en": "snowplough", "img": "803.png", "generated_output": "spandisale"}
+{"label": 563, "it": "penna stilografica", "en": "fountain pen", "img": "563.png", "generated_output": "penna stilografica"}
+{"label": 382, "it": "scimmia uistit\u00ec", "en": "Saimiri sciureus", "img": "382.png", "generated_output": "Saimiri sciureus, noto anche come  saimiri comune o semplicemente saimiri, \u00e8 una specie di primate platirrino della famiglia dei Cebidi."}
+{"label": 710, "it": "temperamatite", "en": "pencil sharpener", "img": "710.png", "generated_output": "affilacrayon"}
+{"label": 275, "it": "licaone", "en": "Cape hunting dog", "img": "275.png", "generated_output": "Cane da caccia del Capo"}
+{"label": 533, "it": "strofinaccio", "en": "dishcloth", "img": "533.png", "generated_output": "strofinaccio"}
+{"label": 147, "it": "balena-grigia", "en": "Eschrichtius gibbosus", "img": "147.png", "generated_output": "Eschrichtius gibbosus non \u00e8 un nome scientifico comunemente utilizzato. Tuttavia, il nome scientifico \"Eschrichtius robustus\" \u00e8 associato alla balena grigia. \n\nLa traduzione in italiano \u00e8: Balena grigia. \n\nTuttavia, se proprio volessimo tradurre \"Eschrichtius gibbosus\", potremmo chiamarlo: Balena gibbosa. \n\nMa il nome pi\u00f9 corretto da utilizzare, in questo caso, sarebbe: Balena grigia."}
+{"label": 497, "it": "chiesa", "en": "church building", "img": "497.png", "generated_output": "edificio della chiesa"}
+{"label": 368, "it": "gibbone", "en": "Hylobates lar", "img": "368.png", "generated_output": "Ilario"}
+{"label": 574, "it": "palla da golf", "en": "golf ball", "img": "574.png", "generated_output": "palla da golf"}
+{"label": 714, "it": "plettro", "en": "plectrum", "img": "714.png", "generated_output": "plettro"}
+{"label": 898, "it": "borraccia", "en": "water bottle", "img": "898.png", "generated_output": "bottiglia d'acqua"}
+{"label": 299, "it": "suricato", "en": "mierkat", "img": "299.png", "generated_output": "suricata"}
+{"label": 944, "it": "verde foresta", "en": "artichoke", "img": "944.png", "generated_output": "carciofo"}
+{"label": 624, "it": "biblioteca", "en": "library", "img": "624.png", "generated_output": "biblioteca"}
+{"label": 117, "it": "nautilo", "en": "chambered nautilus", "img": "117.png", "generated_output": "Nautilo a camera"}
+{"label": 307, "it": "tonchio", "en": "weevil", "img": "307.png", "generated_output": "Punteruolo"}
+{"label": 420, "it": "bangio", "en": "banjo", "img": "420.png", "generated_output": "banjo"}
+{"label": 460, "it": "bastione", "en": "groin", "img": "460.png", "generated_output": "molo"}
+{"label": 225, "it": "pastore belga di Malines", "en": "malinois", "img": "225.png", "generated_output": "malinois -> Malinois \n\nHowever, Malinois is a proper noun and it is a breed of dog. The translation is: Malinois \n\nIn Italian, the breed is known as: Pastore belga malinois \n\nSo, the answer is: Pastore belga malinois"}
+{"label": 335, "it": "scoiattolo volpe", "en": "Sciurus niger", "img": "335.png", "generated_output": "Sciuro nero."}
+{"label": 259, "it": "Pomerania", "en": "Pomeranian", "img": "259.png", "generated_output": "Pomerania"}
+{"label": 788, "it": "negozio di scarpe", "en": "shoe-shop", "img": "788.png", "generated_output": "negozio di scarpe"}
+{"label": 778, "it": "bilancia", "en": "weighing machine", "img": "778.png", "generated_output": "bilancia"}
+{"label": 911, "it": "lana", "en": "wool", "img": "911.png", "generated_output": "lana"}
+{"label": 439, "it": "sciacc\u00f2", "en": "shako", "img": "439.png", "generated_output": "shako"}
+{"label": 868, "it": "vaschetta", "en": "tray", "img": "868.png", "generated_output": "vassoio"}
+{"label": 985, "it": "pratolina", "en": "daisy", "img": "985.png", "generated_output": "margherita"}
+{"label": 870, "it": "triciclo", "en": "tricycle", "img": "870.png", "generated_output": "triciclo"}
+{"label": 271, "it": "crisocione", "en": "Canis niger", "img": "271.png", "generated_output": "Canis niger \u00e8 il nome scientifico del coyote. \n\nHowever, considering \"Canis niger\" as a potential species name and translating it directly:\n\nCanis niger -> Canis nero \n\nBut given that Canis niger might refer to a species and directly translating \"Canis niger\":\n\nCane nero"}
+{"label": 296, "it": "orso bianco", "en": "Thalarctos maritimus", "img": "296.png", "generated_output": "Orso polare"}
+{"label": 452, "it": "cuffia", "en": "poke bonnet", "img": "452.png", "generated_output": "Cappello a punta"}
+{"label": 502, "it": "zoccolo (calzatura)", "en": "sabot", "img": "502.png", "generated_output": "zoccolo"}
+{"label": 750, "it": "trapunta", "en": "comforter", "img": "750.png", "generated_output": "copriletto"}
+{"label": 959, "it": "Libro di cucina/Ricette/Spaghetti alla carbonara", "en": "carbonara", "img": "959.png", "generated_output": "carbonara"}
+{"label": 929, "it": "ghiacciolo", "en": "lollipop", "img": "929.png", "generated_output": "lecca lecca"}
+{"label": 695, "it": "lucchetto", "en": "padlock", "img": "695.png", "generated_output": "Lucchetto"}
+{"label": 21, "it": "nibbio", "en": "kite", "img": "21.png", "generated_output": "aquila kite"}
+{"label": 17, "it": "ghiandaia", "en": "jay", "img": "17.png", "generated_output": "Ghiandaia"}
+{"label": 893, "it": "borsellino", "en": "billfold", "img": "893.png", "generated_output": "portafoglio"}
+{"label": 82, "it": "pernice", "en": "Bonasa umbellus", "img": "82.png", "generated_output": "Tetrao umbellato"}
+{"label": 137, "it": "folaga americana", "en": "Fulica americana", "img": "137.png", "generated_output": "Fulica americana \u00e8 il nome scientifico del Gallineto americano, una specie di uccello acquatico. Tuttavia, la foto allegata mostra un Gallineto comune (Fulica atra). Pertanto, la traduzione pi\u00f9 appropriata, tenendo conto dell'immagine, sarebbe: Fulica atra."}
+{"label": 260, "it": "ciauciau", "en": "chow", "img": "260.png", "generated_output": "Cane Chow"}
+{"label": 20, "it": "cinclidi", "en": "water ouzel", "img": "20.png", "generated_output": "merlo acquaiolo"}
+{"label": 130, "it": "fenicottero", "en": "flamingo", "img": "130.png", "generated_output": "fenicottero"}
+{"label": 523, "it": "stampella", "en": "crutch", "img": "523.png", "generated_output": "stampella"}
+{"label": 746, "it": "disco di gomma", "en": "hockey puck", "img": "746.png", "generated_output": "disco da hockey"}
+{"label": 233, "it": "bovaro delle Fiandre", "en": "Bouviers des Flandres", "img": "233.png", "generated_output": "Bouviers des Flandres can be translated to Italian as \"Bouvier delle Fiandre\"."}
+{"label": 713, "it": "stampa fotomeccanica", "en": "photocopier", "img": "713.png", "generated_output": "fotomacchina"}
+{"label": 742, "it": "stampante", "en": "printer", "img": "742.png", "generated_output": "stampante"}
+{"label": 639, "it": "costume intero", "en": "tank suit", "img": "639.png", "generated_output": "costume da bagno a tubo"}
+{"label": 615, "it": "ginocchiera", "en": "knee pad", "img": "615.png", "generated_output": "ginocchiere"}
+{"label": 876, "it": "tino", "en": "tub", "img": "876.png", "generated_output": "vasca da bagno"}
+{"label": 753, "it": "calorifero", "en": "radiator", "img": "753.png", "generated_output": "radiatore"}
+{"label": 527, "it": "computer fisso", "en": "desktop computer", "img": "527.png", "generated_output": "computer desktop"}
+{"label": 824, "it": "stola", "en": "stole", "img": "824.png", "generated_output": "Sciarpa"}
+{"label": 435, "it": "vasca da bagno", "en": "bath", "img": "435.png", "generated_output": "vasca da bagno"}
+{"label": 139, "it": "voltapietre", "en": "Arenaria interpres", "img": "139.png", "generated_output": "Pettoraccia migratrice"}
+{"label": 387, "it": "panda rosso", "en": "panda", "img": "387.png", "generated_output": "panda rosso"}
+{"label": 404, "it": "aereo di linea", "en": "airliner", "img": "404.png", "generated_output": "aereo di linea"}
+{"label": 22, "it": "aquila calva", "en": "American eagle", "img": "22.png", "generated_output": "Aquila americana"}
+{"label": 903, "it": "parrucca", "en": "wig", "img": "903.png", "generated_output": "parrucca"}
+{"label": 393, "it": "pesce pagliaccio", "en": "anemone fish", "img": "393.png", "generated_output": "pesci anemone"}
+{"label": 355, "it": "lama", "en": "llama", "img": "355.png", "generated_output": "lama"}
+{"label": 359, "it": "furetto", "en": "Mustela nigripes", "img": "359.png", "generated_output": "Mustela nigripes is translated to \"Mustela nigripes\" in Italian as well, since it is a scientific name. However, the common name for this species is \"furetto americano\" or \"furetto piedese\". \n\nThe common name is: furetto americano."}
+{"label": 196, "it": "schnauzer nano", "en": "miniature schnauzer", "img": "196.png", "generated_output": "schnauzer miniatura"}
+{"label": 456, "it": "arco", "en": "bow", "img": "456.png", "generated_output": "arco"}
+{"label": 528, "it": "manopola rotativa", "en": "dial telephone", "img": "528.png", "generated_output": "Telefono a disco"}
+{"label": 757, "it": "autocaravan", "en": "RV", "img": "757.png", "generated_output": "Camper"}
+{"label": 309, "it": "pecchia", "en": "bee", "img": "309.png", "generated_output": "ape"}
+{"label": 346, "it": "bufalo d'acqua", "en": "Asiatic buffalo", "img": "346.png", "generated_output": "Bufalo asiatico"}
+{"label": 591, "it": "fazzoletto", "en": "handkerchief", "img": "591.png", "generated_output": "fazzoletto"}
+{"label": 149, "it": "dugongo", "en": "dugong", "img": "149.png", "generated_output": "dugongo"}
+{"label": 343, "it": "facocero", "en": "warthog", "img": "343.png", "generated_output": "Cinghiale"}
+{"label": 361, "it": "moffetta", "en": "skunk", "img": "361.png", "generated_output": "tasso puzzola"}
+{"label": 197, "it": "schnauzer gigante", "en": "giant schnauzer", "img": "197.png", "generated_output": "schnauzer gigante"}
+{"label": 162, "it": "beagle (razza canina)", "en": "beagle", "img": "162.png", "generated_output": "Cane beagle"}
+{"label": 727, "it": "planetario", "en": "planetarium", "img": "727.png", "generated_output": "planetario"}
+{"label": 829, "it": "tranvia", "en": "trolley car", "img": "829.png", "generated_output": "vettura tranviaria"}
+{"label": 160, "it": "levriero afgano", "en": "Afghan", "img": "160.png", "generated_output": "Afgan"}
+{"label": 705, "it": "carrozza", "en": "passenger car", "img": "705.png", "generated_output": "vagone passeggeri"}
+{"label": 32, "it": "Ascaphidae", "en": "Ascaphus trui", "img": "32.png", "generated_output": "Ascaphus trui non \u00e8 presente nell'immagine, tuttavia, sulla base delle informazioni disponibili, la traduzione non \u00e8 necessaria in quanto si tratta di un nome scientifico. Il nome comune di Ascaphus trui \u00e8 \"American tailed frog\" o \"Tailed frog\", ma la traduzione del nome scientifico rimane invariata. \n\nIn italiano, la rana in foto potrebbe essere identificata come \"Rana verde\" o altri nomi comuni a seconda della specie, ma \"Ascaphus trui\" rimane invariato."}
+{"label": 500, "it": "Cliff-dwellers", "en": "cliff dwelling", "img": "500.png", "generated_output": "abitazione rupestre"}
+{"label": 320, "it": "zigotteri", "en": "damselfly", "img": "320.png", "generated_output": "libellula"}
+{"label": 457, "it": "farfallino", "en": "bow tie", "img": "457.png", "generated_output": "papillon"}
+{"label": 557, "it": "asta della bandiera", "en": "flagpole", "img": "557.png", "generated_output": "asta della bandiera"}
+{"label": 767, "it": "gomma", "en": "rubber eraser", "img": "767.png", "generated_output": "gomma"}
+{"label": 884, "it": "volta", "en": "vault", "img": "884.png", "generated_output": "volta"}
+{"label": 696, "it": "pennello", "en": "paintbrush", "img": "696.png", "generated_output": "Pennello da pittura."}
+{"label": 323, "it": "farfalla monarca", "en": "monarch", "img": "323.png", "generated_output": "monarca"}
+{"label": 852, "it": "pallina da tennis", "en": "tennis ball", "img": "852.png", "generated_output": "palla da tennis"}
+{"label": 925, "it": "brodo chiarificato", "en": "consomme", "img": "925.png", "generated_output": "consomm\u00e9"}
+{"label": 952, "it": "fico", "en": "fig", "img": "952.png", "generated_output": "fico"}
+{"label": 610, "it": "maglietta", "en": "long-sleeved t-shirt", "img": "610.png", "generated_output": "maglietta a maniche lunghe"}
+{"label": 45, "it": "mostro di Gila", "en": "Heloderma suspectum", "img": "45.png", "generated_output": "Heloderma suspectum: \u00e8 una specie di sauro velenoso della famiglia Helodermatidae, endemico del deserto di Sonora e delle zone adiacenti, presente in Arizona (Stati Uniti) e nel Sonora (Messico)."}
+{"label": 567, "it": "padella", "en": "skillet", "img": "567.png", "generated_output": "padella"}
+{"label": 841, "it": "felpa", "en": "sweatshirt", "img": "841.png", "generated_output": "maglione"}
+{"label": 736, "it": "tavolo da biliardo", "en": "snooker table", "img": "736.png", "generated_output": "tavola da biliardo"}
+{"label": 337, "it": "castoro", "en": "beaver", "img": "337.png", "generated_output": "castoro"}
+{"label": 412, "it": "contenitore per rifiuti", "en": "ashcan", "img": "412.png", "generated_output": "contenitore per la cenere"}
+{"label": 219, "it": "cocker-spaniel", "en": "cocker spaniel", "img": "219.png", "generated_output": "Cocker spaniel"}
+{"label": 198, "it": "schnauzer medio", "en": "standard schnauzer", "img": "198.png", "generated_output": "schnauzer standard"}
+{"label": 133, "it": "tarabuso", "en": "bittern", "img": "133.png", "generated_output": "Airone guardabuoi"}
+{"label": 418, "it": "penna a sfera", "en": "Biro", "img": "418.png", "generated_output": "Penna a sfera"}
+{"label": 150, "it": "otaria", "en": "sea lion", "img": "150.png", "generated_output": "leone marino"}
+{"label": 656, "it": "monovolume", "en": "minivan", "img": "656.png", "generated_output": "minivan"}
+{"label": 647, "it": "misurino", "en": "measuring cup", "img": "647.png", "generated_output": "tazza dosatrice"}
+{"label": 230, "it": "Cane da pastore scozzese Shetland", "en": "Shetland sheep dog", "img": "230.png", "generated_output": "Cane da pastore delle Shetland"}
+{"label": 5, "it": "torpedine", "en": "numbfish", "img": "5.png", "generated_output": "pesce elettrico"}
+{"label": 781, "it": "tabellone segnapunti", "en": "scoreboard", "img": "781.png", "generated_output": "tabellone dei punteggi"}
+{"label": 430, "it": "pallone da pallacanestro", "en": "basketball", "img": "430.png", "generated_output": "pallacanestro"}
+{"label": 400, "it": "abbigliamento accademico", "en": "academic gown", "img": "400.png", "generated_output": "abito accademico"}
+{"label": 729, "it": "piattaia", "en": "plate rack", "img": "729.png", "generated_output": "portapiatto"}
+{"label": 972, "it": "falesia", "en": "drop", "img": "972.png", "generated_output": "sgocciolio"}
+{"label": 480, "it": "cassa automatica", "en": "automated teller", "img": "480.png", "generated_output": "sportello automatico"}
+{"label": 748, "it": "borsellino", "en": "purse", "img": "748.png", "generated_output": "borsetta"}
+{"label": 621, "it": "falciatura", "en": "lawn mower", "img": "621.png", "generated_output": "tosaerba"}
+{"label": 459, "it": "reggiseno", "en": "brassiere", "img": "459.png", "generated_output": "sostenigonne"}
+{"label": 919, "it": "targa stradale", "en": "street sign", "img": "919.png", "generated_output": "segnale di strada"}
+{"label": 735, "it": "poncio", "en": "poncho", "img": "735.png", "generated_output": "poncho"}
+{"label": 612, "it": "risci\u00f2", "en": "ricksha", "img": "612.png", "generated_output": "risci\u00f2"}
+{"label": 151, "it": "chihuahua (razza canina)", "en": "Chihuahua", "img": "151.png", "generated_output": "Chihuahua"}
+{"label": 685, "it": "contachilometri", "en": "odometer", "img": "685.png", "generated_output": "contachilometri"}
+{"label": 864, "it": "carro attrezzi", "en": "tow truck", "img": "864.png", "generated_output": "Auto Soccorso"}
+{"label": 981, "it": "giocatore di baseball", "en": "baseball player", "img": "981.png", "generated_output": "giocatore di baseball"}
+{"label": 7, "it": "gallo", "en": "cock", "img": "7.png", "generated_output": "Gallo."}
+{"label": 258, "it": "Samoiedo", "en": "Samoyede", "img": "258.png", "generated_output": "Samoyedo"}
+{"label": 939, "it": "zucchino", "en": "courgette", "img": "939.png", "generated_output": "zucchine"}
+{"label": 92, "it": "vespiere", "en": "bee eater", "img": "92.png", "generated_output": "mangiatore di api"}
+{"label": 849, "it": "teiera", "en": "teapot", "img": "849.png", "generated_output": "Tazza da t\u00e8"}
+{"label": 227, "it": "cane da pastore australiano Kelpie", "en": "kelpie", "img": "227.png", "generated_output": "Kelpie"}
+{"label": 79, "it": "centopiedi", "en": "centipede", "img": "79.png", "generated_output": "centopede"}
+{"label": 625, "it": "lancia di salvataggio", "en": "lifeboat", "img": "625.png", "generated_output": "motoscafo di salvataggio"}
+{"label": 107, "it": "medusa", "en": "jellyfish", "img": "107.png", "generated_output": "medusa"}
+{"label": 588, "it": "cesta", "en": "hamper", "img": "588.png", "generated_output": "cestino"}
+{"label": 329, "it": "oloturia", "en": "sea cucumber", "img": "329.png", "generated_output": "cetriolo di mare"}
+{"label": 39, "it": "Iguana squamosa", "en": "Iguana iguana", "img": "39.png", "generated_output": "Iguana iguana, conosciuta comunemente come iguana verde, \u00e8 una specie di iguana."}
+{"label": 484, "it": "catamarano", "en": "catamaran", "img": "484.png", "generated_output": "catamarano"}
+{"label": 519, "it": "cassa da imballaggio di legno", "en": "crate", "img": "519.png", "generated_output": "Cassa"}
+{"label": 349, "it": "Pecora delle Montagne rocciose", "en": "bighorn", "img": "349.png", "generated_output": "montone"}
+{"label": 434, "it": "asciugamano da bagno", "en": "bath towel", "img": "434.png", "generated_output": "Asciugamano da bagno"}
+{"label": 172, "it": "piccolo levriero inglese", "en": "whippet", "img": "172.png", "generated_output": "Levriero."}
+{"label": 763, "it": "rivoltella", "en": "revolver", "img": "763.png", "generated_output": "rivoltella"}
+{"label": 65, "it": "Idrofidi", "en": "sea snake", "img": "65.png", "generated_output": "serpente di mare"}
+{"label": 922, "it": "men\u00f9", "en": "menu", "img": "922.png", "generated_output": "men\u00f9"}
